@@ -1,0 +1,13 @@
+﻿CODE,DESC,NAME,TYPE
+R01,Fixed amount contributions calculated based on agreed formula that UN Member States undertake to pay when signing a treaty. ,Assessed contributions,Assessed contributions
+R02A,Voluntary untied contributions,Voluntary untied contributions,Voluntary core (un-earmarked) contributions
+R02B,"Revenue transactions recorded for donations or goods and / or services, in accordance with the accounting policies of the organization.",In-kind untied contributions,Voluntary core (un-earmarked) contributions
+R03A,"Co-mingled contributions to multi-entity funding mechanism, not earmarked for specific UN entity; funds are held by UN fund administrator and fund allocations are made by UN-led governance mechanism.  (Full definition in user guidance)",UN Inter-agency pooled funds,Voluntary non-core (earmarked) contributions
+R03B,Co-mingled contributions to single-entity funding mechanism designed to support high-level outcomes within strategic plan; single UN entity is fund administrator and takes the decisions on fund allocations.,Single-agency thematic funds,Voluntary non-core (earmarked) contributions
+R03C,"Contributions from ""vertically"" focused funds with specific themes; funds are not directly administered by a UN entity and do not have a UN lead role in fund allocations.",Revenue from global vertical funds,Voluntary non-core (earmarked) contributions
+R03D,Contributions from programme countries financed from government resources for use in support of their own development framework.,Local resources,Voluntary non-core (earmarked) contributions
+R03E,"Grants earmarked by the contributor to a specific programme or project, provided they do not fall within the above-mentioned voluntary non-core categories.",Project/ programme specific contributions,Voluntary non-core (earmarked) contributions
+R03F,"Revenue transactions recorded for donations or goods and / or services, in accordance with the accounting policies of the organization that are earmarked by the contributor to a specific programme or project",In-kind earmarked contributions,Voluntary non-core (earmarked) contributions
+R04A,Other revenue - specific to the UN entity,Revenue from other activities,Revenue from other activities
+R04B,Other revenue - other UN entities,Other revenue - other UN entities,Revenue from other activities
+R04C,Other revenue - external to UN,Other revenue - external to UN,Revenue from other activities
