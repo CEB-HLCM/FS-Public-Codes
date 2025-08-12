@@ -1,0 +1,23 @@
+﻿NAME,TYPE,DEFINITION
+Government,C01,"Includes:
+o Local Government - Any local (sub national) government organisation in either contributor or recipient country.
+o Other Public Sector – Any other public sector organization falling within the government
+"
+NGOs,C02,"Non-governmental organizations that can include:
+o International NGO - An international non-governmental organization (INGO) is international in scope and has outposts around the world to deal with specific issues in many countries.
+o National NGO – A non-government organization with a scope to deal with specific issues in a particular country. 
+o Regional NGO - A non-government organization with a scope to deal with specific issues in a particular region.
+o Partner Country based NGO - NGOs not based in an aid recipient country and carrying out operations in one or more aid recipient countries.
+"
+Public Private Partnership,C03,"A public–private partnership (PPP, 3P or P3) is a cooperative arrangement between two or more public and private sectors, typically of a long-term nature"
+Foundations,C05,"A foundation is a non-governmental entity that is established as a nonprofit corporation or a charitable trust, with a principal purpose of making grants to unrelated organizations, institutions, or individuals for scientific, educational, cultural, religious, or other charitable purposes. This broad DEFINITION encompasses two foundation types: private foundations and grantmaking public charities"
+Private Sector,C06,"The private sector is the part of the economy, sometimes referred to as the citizen sector, which is run by private individuals or groups, usually as a means of enterprise for profit, and is not controlled by the State"
+"Academic, Training and Research ",C07,"Contributions from institutions whose main purpose is academic, training and research’ "
+Multilateral - International Financial Institutions,C04A,"Such as the World Bank, IMF and regional Development Banks"
+Multilateral - Global vertical funds,C04B,"Global vertical funds focus ‘vertically’ on specific themes,  but  are  not  directly administered by a UN entity and do not have a UN lead role in the fund allocation process. Though a form of pooled funding, from the UN perspective the funding received is earmarked to particular projects, with the UN’s role solely as a fund implementer. Examples include Global Climate Fund, GEF, GFATM, Montreal Protocol, GAVI"
+Multilateral - UN organizations excluding pooled funds,C04C,"This reflects the total of revenues recorded in the accounts from all UN organizations, excluding the funding received from a UN organisation that operates as a fund administrator for a UN inter-agency pooled fund. It includes funding received through the UN-to-UN agreement and as Managing Agent in a UNDG Joint Programme."
+Multilateral - UN Inter-agency pooled funds,C04D,"UN inter-agency pooled funds are multi-entity funding mechanisms designed to support a clearly defined broad programmatic scope and results framework through contributions that are co-mingled, not earmarked to a specific UN entity and held by a UN fund administrator. In the UN inter-agency funds, the UN also takes a lead role in making fund allocation decisions as well as fund implementation. UN inter-agency pooled funds thus operate as pass-through mechanisms, and include Joint Programmes, One Funds and multi donor trust funds (MDTFs).  ."
+Multilateral - Others,C04E,Multilateral organizations are formed by three or more nations  to work on issues that are relevant to each of them
+Other - European Union,C08A,Contributions received from the European Union Institutions
+Other - Other Contributor,C08B,Where a contributor does not fall within any of the categories listed above
+No contributor,C09,No contributor
