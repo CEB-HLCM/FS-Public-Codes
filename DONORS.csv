@@ -1,28 +1,32 @@
 ﻿NAME,TYPE,CEB CODE,CONTRIBUTOR TYPE
-UN Women Austrian National Committee,0,UNWATNC,C02
-UN Women Australian National Committee,0,UNWAUNC,C02
-UN Women Spanish National Committee,0,UNWESNC,C02
-UN Women Finland's National Committee,0,UNWFINC,C02
-UN Women French National Committee,0,UNWFRNC,C02
-UN Women German National Committee,0,UNWDENC,C02
-UN Women Icelandic National Committee,0,UNWISNC,C02
-UN Women Japanese National Committee,0,UNWJPNC,C02
-UN Women Netherland's National Committee,0,UNWNLNC,C02
-UN Women Sweden's National Committee,0,UNWSENC,C02
-UN Women UK National Committee,0,UNWGBNC,C02
-Arsenault Family Foundation,0,ARSFF,C05
-MEX-Bonafont S.A. De C.V.,0,MEXBF,C06
-"Citibank (China) Co., Ltd",0,CITIBCHIN,C06
-Interpublic Group,0,INTPG,C06
-Nokia Solutions and Networks Oy,0,NOKIA,C06
-Procter & Gamble,0,PROCGAM,C06
-Turkish PetroleumRefineries Co,0,TURKPETREF,C06
-Guccio Gucci SpA,0,GUCCIOG,C06
-LinkedIn,0,LINKEDIN,C06
-Watch & Jewelry Initiative 2030,0,WATCHJEWL,C06
+United Nations Human Settlement Programme (UN-HABITAT),0,UNHABITAT,C04C
+Port of Rotterdam,0,PROTT,C03
+Zero Emissions Ship Technology Association,0,ZESTA,C02
+UN Women Austrian National Committee,C02,UNWATNC,C02
+UN Women Australian National Committee,C02,UNWAUNC,C02
+UN Women Spanish National Committee,C02,UNWESNC,C02
+UN Women Finland's National Committee,C02,UNWFINC,C02
+UN Women French National Committee,C02,UNWFRNC,C02
+UN Women German National Committee,C02,UNWDENC,C02
+UN Women Icelandic National Committee,C02,UNWISNC,C02
+UN Women Japanese National Committee,C02,UNWJPNC,C02
+UN Women Netherland's National Committee,C02,UNWNLNC,C02
+UN Women Sweden's National Committee,C02,UNWSENC,C02
+UN Women UK National Committee,C02,UNWGBNC,C02
+Arsenault Family Foundation,C05,ARSFF,C05
+MEX-Bonafont S.A. De C.V.,C06,MEXBF,C06
+"Citibank (China) Co., Ltd",C06,CITIBCHIN,C06
+Interpublic Group,C06,INTPG,C06
+Nokia Solutions and Networks Oy,C06,NOKIA,C06
+Procter & Gamble,C06,PROCGAM,C06
+Turkish PetroleumRefineries Co,C06,TURKPETREF,C06
+Guccio Gucci SpA,C06,GUCCIOG,C06
+LinkedIn,C06,LINKEDIN,C06
+Watch & Jewelry Initiative 2030,C06,WATCHJEWL,C06
+Global Support and Development,0,GSD44,C02
 Eastern and Southern Africa Water and Sanitation Regulators Association (ESAWAS),0,ESAWAS,C04E
 External quality assurance assessment scheme (EQAAS),0,EQAAS,C04E
-Innovation Norway,0,INNOVNOR – NO,C06
+Innovation Norway,0,INNOVNOR â€“ NO,C06
 University of Padua,0,UNIPD,C07
 Raoul Wallenberg center of human rights,0,RWCHR,C02
 Euregio platform for human dignity and human rights,0,EUPHUR,C07
@@ -169,8 +173,8 @@ University of Donja Gorica,0,UDG,C07
 Via Vii,0,VIAVII,C06
 Altezza Travelling Limited,0,ALTEZZA,C06
 Amsa Hospitality Company,0,AMSAHO,C06
-Asociacion del Deporte Español,0,ADESP,C05
-Banco de Reservas de la República Dominicana,0,BANRESERV,C04A
+Asociacion del Deporte EspaÃ±ol,0,ADESP,C05
+Banco de Reservas de la RepÃºblica Dominicana,0,BANRESERV,C04A
 Banco Popular Dominicano S.A. Banco Multiple,0,BANPOPUL,C04A
 Batterjee Medical College,0,BTJEEMC,C07
 Camara de Comercio de Medellin para Antioquia,0,CCM,C06
@@ -207,11 +211,11 @@ Lufthansa Group,0,LUFT,C06
 European Institute of Cultural Routes (EICR),0,EICR,C02
 International Mountain Tourism Alliance (IMTA),0,IMTA,C02
 Tourism Innovation Summit (TIS),0,TIS,C08B
-European Cyclists´ Federation,0,EUCF,C02
+European CyclistsÂ´ Federation,0,EUCF,C02
 Almosafer Company for Travel and Tourism,0,ALMO,C06
 Alimentaria Exhibitions SLU,0,AESLU,C06
 Hostelco,0,HOSTELCO,C06
-Federación Iberoamericana de Jovenes Empresarios,0,FIJE,C02
+FederaciÃ³n Iberoamericana de Jovenes Empresarios,0,FIJE,C02
 Campings de Catalunya,0,CDC,C02
 European Exhibition Industry Alliance,0,EEIA,C02
 Arabian Travel Market (ATM),0,ATM,C06
@@ -238,16 +242,16 @@ German University of Technology,0,GUT,C07
 University of Applied Sciences HTW Chur,0,UASGRI,C07
 Oxford University Press,0,OXFUP,C07
 University of Aveiro,0,UNIAVEIR,C07
-Université de Pau et des Pays de l'Adour,0,UPPA,C07
+UniversitÃ© de Pau et des Pays de l'Adour,0,UPPA,C07
 ACC Akadeima College,0,AKC,C07
 European University Institute,0,EUI,C07
 Libreria Hispanoamericana SL,0,LIBHISAM,C06
 ENTPE,0,ENTPE,C07
 MCI Internationale Hochschule GmbH,0,MCIIHG,C07
-Hochschule für Technik und Wirtschaft des Saarland,0,HTW,C07
+Hochschule fÃ¼r Technik und Wirtschaft des Saarland,0,HTW,C07
 Brazilian petroleum/Petroleo Brasileiro S.A./portmanteau Petrobras,0,PETROBRAS,C06
 Fondazione asi ce ets,0,FONDASI,C05
-"Aerovías de México, S.A. de C.V/ Aeroméxico",0,AEROMEXICO,C06
+"AerovÃ­as de MÃ©xico, S.A. de C.V/ AeromÃ©xico",0,AEROMEXICO,C06
 Fundacion Avina/Avina foundation,0,AVINAF,C05
 Fondazione Isacchi Samaja Onlus,0,FONDISACCHI,C05
 Karlsruher Institut fuer Technologie/ Karlsruhe Institute of Technology,0,KIT66,C07
@@ -276,7 +280,7 @@ Besrour Centre for Global Family Medicine community,0,BESROUR,C05
 "BOE Technology Group Co, Ltd",0,BOET,C06
 China Global Television Network,0,CGTN,C06
 DALIO FAMILY FUND INC/ Dalio Philanthropies,0,DALIO,C05
-Fundacao Grupo Boticario de Proteça/ Boticario Group Foundation for Protection,0,FGBPN,C05
+Fundacao Grupo Boticario de ProteÃ§a/ Boticario Group Foundation for Protection,0,FGBPN,C05
 Fundacion UPM/UPM Foundation,0,FUNDUPM,C05
 Hellenic Corporation of Assets and Participations,0,HCAP,C06
 "Octel Corporation and Associated Octel Company, Ltd/ IINOSPEC",0,IINOSPEC,C06
@@ -354,15 +358,15 @@ Fundacion Covelo,0,COVELOFUND,C05
 The EFTA Surveillance Authority (ESA),0,EFTA,C04E
 COLEAD (Committee Linking Entrepreneurship-Agriculture-Development),0,COLEAD,C02
 Coordinating Body of Latin American Banana and Agro-industrial Unions/Coordinadora Latinoamericano de Sindicatos Bananeros,0,COLSIBA,C02
-The National Confederation of Livestock (CNE)/Confédération Nationale de L’Élevage,0,CNE,C02
+The National Confederation of Livestock (CNE)/ConfÃ©dÃ©ration Nationale de Lâ€™Ã‰levage,0,CNE,C02
 Coobana R.L.,0,COOBANA,C06
-Corporación Bananera Nacional,0,CORBANA,C02
+CorporaciÃ³n Bananera Nacional,0,CORBANA,C02
 ALDI EINKAUF GMBH & CO.OHG/ALDI,0,ALDI,C06
 "ASOCIACION AGRICOLA LIBERTAD, FLORIDA y PALMAS",0,AALF,C02
-Asociación de Bananeros Del Magdalena y La Guajira,0,ASBAMA,C02
-La Asociación de Desarrollo Pespirense (ADEPES),0,ADEPES,C02
-Asociación de Exportadores de Banano del Ecuador/Ecuador Banana Export Association,0,AEBE,C02
-Asociación Hondureña para el Desarrollo de Servicios Tecnicos y Financieros/The Honduran Association for the Development of Technical and Financial Services (AHSETFIN),0,AHSETFIN,C02
+AsociaciÃ³n de Bananeros Del Magdalena y La Guajira,0,ASBAMA,C02
+La AsociaciÃ³n de Desarrollo Pespirense (ADEPES),0,ADEPES,C02
+AsociaciÃ³n de Exportadores de Banano del Ecuador/Ecuador Banana Export Association,0,AEBE,C02
+AsociaciÃ³n HondureÃ±a para el Desarrollo de Servicios Tecnicos y Financieros/The Honduran Association for the Development of Technical and Financial Services (AHSETFIN),0,AHSETFIN,C02
 EUROBANK,0,EUROBAN,C06
 Fairtrade Labelling Organizations International,0,FLOI,C04E
 "Foundation for Agrarian Reform Cooperatives in Mindanao, Inc.",0,FARMCOOP,C05
@@ -370,7 +374,7 @@ World Renderers Organization (WRO),0,WRO,C02
 TESCO,0,TESCO,C06
 Fyffes International,0,FYFFES,C06
 LIDL Stiftung & Co.,0,LIDL,C05
-Instituto Hondureño de Estudio y Desarrollo Integral de la Comunidad,0,IHDEI,
+Instituto HondureÃ±o de Estudio y Desarrollo Integral de la Comunidad,0,IHDEI,
 International Dairy Federation,0,IDF12,C02
 Komping Puoy FWUC (Farmer Water User community),0,FWUC,C02
 Korea Overseas Fisheries Association,0,KOFA,C02
@@ -378,9 +382,9 @@ MASS-SPECC Cooperative Development Center,0,MASS-SPECC,C02
 The National People's Co-operative Bank (NPCB),0,NPCB,C06
 Organismo Internacional Regional de Sanidad Agropecuaria (OIRSA RD)/ International Regional Organization for Agricultural Health (OIRSA),0,OIRSA,C04E
 "Organization for the Promotion of Responsible Tuna Fisheries, OPRT",0,OPRT,C03
-Sainsbury’s Supermarkets Ltd.,0,SAINSBURY,C06
+Sainsburyâ€™s Supermarkets Ltd.,0,SAINSBURY,C06
 Shanghai Ocean University,0,SOU11,C07
-The German Savings Bank Foundation/Sparkassenstiftung für internationale Kooperation,0,GSBF,C06
+The German Savings Bank Foundation/Sparkassenstiftung fÃ¼r internationale Kooperation,0,GSBF,C06
 Stichting Solidaridad,0,SOLIDARID11,C02
 Universidad de Cordoba (CEHAP),0,CEHAP,C07
 Wageningen University/Omgevingswetenschappen,0,WUR23,C07
@@ -392,7 +396,7 @@ Zonta International,0,ZONTA,C05
 Zoetis Foundation,0,ZOETIS,C05
 "Zhongshan Ophthalmic Center ,China",0,ZOC,C07
 Zambia,1,ZM,C01
-Hochschule Zittau Goerlitz/Zittau GÃ¶rlitz University of Applied Sciences,0,ZGUAS,C07
+Hochschule Zittau Goerlitz/Zittau GÃƒÂ¶rlitz University of Applied Sciences,0,ZGUAS,C07
 ZeShan Foundation,0,ZESHAN,C05
 ZBW - German National Library of Economics,0,ZBW,C07
 Leibniz Information Centre for Economics,0,ZBW11,C07
@@ -415,7 +419,7 @@ YALE UNIVERSITY,0,YALEU,C07
 XO Humanitarian Fund,0,XOFUND,C05
 Kosovo**,1,XK,C01
 Xiaomi Foundation/Xiaomi Global,0,XIAOMI,C05
-TheÂ World YouthÂ andÂ StudentÂ TravelÂ ConferenceÂ (WYSTC),0,WYSTC,C07
+TheÃ‚Â World YouthÃ‚Â andÃ‚Â StudentÃ‚Â TravelÃ‚Â ConferenceÃ‚Â (WYSTC),0,WYSTC,C07
 WYSE Travel Confederation,0,WYSE,C02
 World Wide Fund for Nature,0,WWF,C02
 World Vision International,0,WVI,C02
@@ -452,7 +456,7 @@ Western Indian Ocean Marine Science Association,0,WIOMSA,C02
 WINDWARD FUND,0,WINDWARD,C04B
 WIND TRE,0,WINDTRE,C06
 Wine in Moderation - Art de Vivre (WiM Association,0,WIMA,C02
-Vienna Institute  International Economic Studies/Wiener Institut fÃ¼r Internationale Wirtschaftsvergleiche (wiiw),0,WIIW,C07
+Vienna Institute  International Economic Studies/Wiener Institut fÃƒÂ¼r Internationale Wirtschaftsvergleiche (wiiw),0,WIIW,C07
 "WUPPERTAL INSTITUT FUR KLIMA, UMWELT ENE",0,WIFK,C07
 Women in Distress ASBL/Femmes en detresse,0,WID,C02
 The Woods Hole Oceanographic Institution,0,WHOI,C07
@@ -498,7 +502,7 @@ Walton Family Foundation,0,WALTON,C05
 Wakayama University,0,WAKAYAMA,C07
 West African Institute for Financial and Economic Management,0,WAIFEM,C04A
 West African Health Organisation,0,WAHO,C04E
-TheÂ World Archery Federation/FITA/FrenchÂ FÃ©dÃ©ration Internationale de Tir Ã  l'Arc,0,WAF10,C02
+TheÃ‚Â World Archery Federation/FITA/FrenchÃ‚Â FÃƒÂ©dÃƒÂ©ration Internationale de Tir ÃƒÂ  l'Arc,0,WAF10,C02
 Vision Zero Fund,0,VZF,C03
 Vrije Universiteit Brussel,0,VUB,C07
 Vrije Universiteit Amsterdam,0,VUA,C07
@@ -559,8 +563,8 @@ University of Stuttgart,0,USTUTT,C07
 University of Split ULIX,0,USPLIT,C07
 CEU San Pablo University,0,USPCEU,C07
 University of Southampton,0,USOUTH,C07
-SÃ¶dertÃ¶rn University,0,USODERTON,C07
-Univerdidad de San Martin de Porres/University of San MartÃ­n de Porres,0,USMP,C07
+SÃƒÂ¶dertÃƒÂ¶rn University,0,USODERTON,C07
+Univerdidad de San Martin de Porres/University of San MartÃƒÂ­n de Porres,0,USMP,C07
 University of Tourism and Management in Skopje,0,USKOPJE,C07
 University Singidunum/Univerzitet Singidunum,0,USINGIDUNUM,C07
 Usine Foundation,0,USINEFOUND,C05
@@ -570,7 +574,7 @@ United States Endowment for Forestry and Communities,0,USEFC,C02
 United States Council Foundation,0,USCF,C05
 "UNRWA Spanish Committee,",0,USC,C02
 Universidad de San Buenaventura/University of San Buenaventura,0,USBOG,C07
-Sapienza UniversitÃ  di Roma/Sapienza University of Rome,0,USAPIENZA,C07
+Sapienza UniversitÃƒÂ  di Roma/Sapienza University of Rome,0,USAPIENZA,C07
 "UNRWA USA National Committee,",0,USANC,C02
 Universidad del Salvador/University of Salvador,0,USALVADOR,C07
 Universidad de Salamanca/University of Salamanca,0,USALAMANCA,C07
@@ -581,13 +585,13 @@ Rissho University ,0,URISSHO,C07
 Urenco Group,0,URENCO,C08B
 "University Research Co., LLC",0,URC,C06
 Universidad Quintana Roo/University of Quintana Roo,0,UQROO,C07
-"UniversitÃ© du QuÃ©bec Ã  MontrÃ©al/ University of Quebec, Montreal, Canada",0,UQAM,C07
+"UniversitÃƒÂ© du QuÃƒÂ©bec ÃƒÂ  MontrÃƒÂ©al/ University of Quebec, Montreal, Canada",0,UQAM,C07
 Univesity of Queensland,0,UQ20,C07
-University of Perpignan - Domitian /UniversitÃ© de Perpignan Via Domitia /UPVD,0,UPVD,C07
-Universidad PolitÃ©cnica de Valencia/Valencia Polytechnic University/Technical University of Valencia,0,UPV,C07
+University of Perpignan - Domitian /UniversitÃƒÂ© de Perpignan Via Domitia /UPVD,0,UPVD,C07
+Universidad PolitÃƒÂ©cnica de Valencia/Valencia Polytechnic University/Technical University of Valencia,0,UPV,C07
 Purdue University,0,UPURDUE,C07
 Universal Postal Union,0,UPU,C04C
-"UniversitÃ¨ Paris Saclay, Paris - France/Paris-Saclay University",0,UPS10,C07
+"UniversitÃƒÂ¨ Paris Saclay, Paris - France/Paris-Saclay University",0,UPS10,C07
 UPS Foundation,0,UPS,C05
 Universidad de Puerto Rico/University of Puerto Rico ,0,UPR,C07
 UNIVERSAL PEACE FEDERATION,0,UPF,C02
@@ -632,12 +636,12 @@ United Nations Special Coordinator,0,UNSCOGAZ,C04C
 UN Scaling Up Nutrition Movement Fund,0,UNSCNFUND,C03
 United Nations Scientific Committee on the Effects of Atomic Radiation,0,UNSCEAR,C04C
 Escuela Prof. Tur.Univ.Nac.San Antonio Abad Cusco/ Professional School of Tourism of the National University of San Antonio Abad of Cusco,0,UNSAAC,C07
-"Universidad Nacional de San AgustÃ­n de Arequipa/ The National University of San AgustÃ­n, Arequipa",0,UNSA,C07
+"Universidad Nacional de San AgustÃƒÂ­n de Arequipa/ The National University of San AgustÃƒÂ­n, Arequipa",0,UNSA,C07
 United Nations Relief and Works Agency for Palestine,0,UNRWA,C04C
 United Nations Register of Damage,0,UNROD,C04C
 UNITED NATIONS REDD PROGRAMME,0,UNREDD,C04C
 UNITED NATIONS REGIONAL CENTRE FOR PREVENTIVE DIPLOMACY FOR CENTRAL ASIA,0,UNRCCA,C04C
-United Nations Partnership to Promote the Rights of Persons with DisabilitiesÂ (UNPRPD,0,UNPRPD,C04C
+United Nations Partnership to Promote the Rights of Persons with DisabilitiesÃ‚Â (UNPRPD,0,UNPRPD,C04C
 UN POLITICAL OFFICE FOR SOMALI,0,UNPOS,C04C
 United Nations Peace and Development Trust Fund (UNPDF),0,UNPDF,C04C
 United Nations Postal Administration (UNPA),0,UNPA,C04C
@@ -655,7 +659,7 @@ United Nations Office of Disarmament Affairs (UNODA),0,UNODA,C04C
 UNOCT - INTERNAL UMOJA USE,0,UNOCT,C04C
 United Nations Secretariat Office for the Coordination of Humanitarian Affairs,0,UN-OCHA,C04C
 UNOCA United Nations Regional Office for Central Africa,0,UNOCA,C04C
-UNO-FlÃ¼chtlingshilfe/ UN refugee aid,0,UNO23,C02
+UNO-FlÃƒÂ¼chtlingshilfe/ UN refugee aid,0,UNO23,C02
 The United Nations Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO),0,UN-MONUSCO,C04C
 UNITED NATIONS MILITARY OBSERVER GROUP IN INDIA AND PAKISTAN,0,UNMOGIP,C04C
 United Nations Integrated Mission in Timor-Leste,0,UNMIT,C04C
@@ -669,7 +673,7 @@ United Nations Mission in Ethiopia and Eritrea,0,UNMEE,C04C
 United Nations Mine Action Service - UNMAS,0,UNMAS,C04C
 UN Joint Staff Pension Fund,0,UNJSPF,C04C
 University Of Zagreb,0,UNIZG,C07
-University of Zadar - SveuÄiliÅ¡te u Zadru,0,UNIZD,C07
+University of Zadar - SveuÃ„ÂiliÃ…Â¡te u Zadru,0,UNIZD,C07
 University of Westminster,0,UNIWEST,C07
 Uniweb BV,0,UNIWEB,C06
 "IE Universidad/ Universidad Instituto de Empresa,",0,UNIVIE,C07
@@ -680,7 +684,7 @@ United Nations Institute for Training and Research,0,UNITAR,C04C
 United Nations Integrated Transition Assistance Mission in Sudan (UNITAMS),0,UNITAMS,C04C
 INTERNATIONAL DRUG PURCHASE FACILITY (UNITAID),0,UNITAID,C04C
 United Nations Investigative Team for Accountability of Da'esh,0,UNITAD,C04C
-UniversitÃ  per Stranieri di Siena/University for Foreigners of Siena,0,UNISTRASI,C07
+UniversitÃƒÂ  per Stranieri di Siena/University for Foreigners of Siena,0,UNISTRASI,C07
 United Nations Interim Security Force for Abyei,0,UNISFA,C04C
 United Nations International Strategy for Disaster Reduction,0,UNISDR,C04C
 University of the Sunshine Coast,0,UNISC,C07
@@ -691,29 +695,29 @@ UNITAR pool of donors,0,UNIPOOL,C03
 UNIPOL GROUP SPA,0,UNIPOL,C02
 Unioncamere Piemonte,0,UNIONCAMERE,C02
 "Universidad del Norte, Colombia/ UNINORTE/University of the North, Colombia",0,UNINORTE,C07
-UniversitÃ¡ degli Studi del Molise/University of Molise,0,UNIMOL,C07
+UniversitÃƒÂ¡ degli Studi del Molise/University of Molise,0,UNIMOL,C07
 "Universidad del Magdalena/The University of Magdalena,",0,UNIMAGDALENA,C07
 Unilever Europe B.V.,0,UNILEVER,C06
 University of Guelph,0,UNIGUE,C07
 UNIVERSITY OF GRONINGEN,0,UNIGRO,C07
 University of Greifswald,0,UNIGRE,C07
-UniversitÃ¤tsbibliothek Giessen/University of Giessen,0,UNIGIESSEN,C07
+UniversitÃƒÂ¤tsbibliothek Giessen/University of Giessen,0,UNIGIESSEN,C07
 University of Geneva,0,UNIGE,C07
 United Nations Interim Force In Lebanon,0,UNIFIL,C04C
 UNIDO - UMBERELA,0,UNIDO-UMBRELLA,C08B
 United Nations Industrial Development Organization,0,UNIDO,C04C
 United Nations Interregional Crime and Justice Research Institute,0,UNICRI,C04C
 UniCredit Foundation/UniCredit S.p.A.,0,UNICREDIT,C05
-UNICORP VIDA COMPANÃA DE SEGUROS Y,0,UNICORP,C06
+UNICORP VIDA COMPANÃƒÂA DE SEGUROS Y,0,UNICORP,C06
 National Committee UNICEF Denmark,0,UNICEFDK,C06
 The United Nations International Children's Emergency Fund,0,UNICEF,C04C
 The United Nations International Computing Centre (UNICC),0,UNICC,C04C
 "Universidad Del Caribe, Mexico",0,UNICARIBE,C07
 UNICAJA BANCO SA,0,UNICAJA,C06
-FundaciÃ³n Universitaria Cafam/Cafam University Foundation,0,UNICAFAM,C07
+FundaciÃƒÂ³n Universitaria Cafam/Cafam University Foundation,0,UNICAFAM,C07
 United Nations Information Centre,0,UNIC,C04C
 University of Brighton,0,UNIBRIGHTON,C07
-Alma Mater Studiorum - UniversitÃ  di Bologna/The University of Bologna ,0,UNIBO,C07
+Alma Mater Studiorum - UniversitÃƒÂ  di Bologna/The University of Bologna ,0,UNIBO,C07
 UNIAG - Applied Management Research Unit,0,UNIAG,C07
 Interfederal Center for Equal Opportunities and Opposition to Racism,0,UNIA,C02
 United Nations High Commissioner for Refugees,0,UNHCR,C04C
@@ -733,7 +737,7 @@ United Nations Secretariat Economic and Social Commission for Western Asia,0,UN-
 "United National Educational, Scientific and Cultural Organization",0,UNESCO,C04C
 United Nations Secretariat Economic and Social Commission for Asia and the Pacific,0,UN-ESCAP,C04C
 United Nations Economic and Social Commission for Asia and the Pacific (ESCAP),0,UNESCAP,C04C
-Universidad Nacional de entre rios/National University of Entre RÃ­os,0,UNER,C07
+Universidad Nacional de entre rios/National University of Entre RÃƒÂ­os,0,UNER,C07
 World Conservation Monitoring Centre,0,UNEP-WCMC,C04C
 United Nations Environment Programme,0,UNEP,C04C
 UN Evaluation Group,0,UNEG,C04C
@@ -750,7 +754,7 @@ Department of Peacekeeping Operations (DPKO),0,UN-DPO,C04C
 "United Nations Secretariat Department of Peacekeeping Operations, including Peacekeeping Missions",0,UN-DPKO,C04C
 UNDP-IAPSO Inter-Agency Procurement Services Organization (IAPSO),0,UNDP-IAPSO,C04C
 "United Nations Secretariat Department of Political Affairs, including Special Political Missions",0,UN-DPA,C04C
-Programme des Nations Unies pour le DÃ©veloppement (PNUD)/The United Nations Development Programme,0,UNDP,C04C
+Programme des Nations Unies pour le DÃƒÂ©veloppement (PNUD)/The United Nations Development Programme,0,UNDP,C04C
 United Nations Secretariat Department of Operational Support,0,UN-DOS,C04C
 "United Nations Secretariat Department of Management Strategy, Policy and Compliance, including UNOG, UNOV and UNON",0,UN-DMSPC,C04C
 UN DEPARTMENT OF INTERNATIONAL ECONOMIC,0,UNDIESA,C04C
@@ -783,7 +787,7 @@ UNAMA United Nations Assistance Mission in Afghanistan,0,UNAMA,C04C
 The Joint United Nations Programme on HIV/AIDS,0,UNAIDS,C04C
 UN AGENCIES MEXICO,0,UNAGENMEX,C04C
 United Nations Asia and Far East Institute for the Prevention of Crime and the Treatment of Offenders,0,UNAFEI,C04C
-Universidad AutÃ³noma de Chiapas/Autonomous University of Chiapas,0,UNACH,C07
+Universidad AutÃƒÂ³noma de Chiapas/Autonomous University of Chiapas,0,UNACH,C07
 Augsburg University Medicine (GERMANY),0,UNA,C07
 UN 75th Anniversary,0,UN75,C04C
 United Nations Secretariat,0,UN10,C04C
@@ -804,9 +808,9 @@ Universidad de la Laguna/University of La Laguna,0,ULL,C07
 University Of Ljubljana/Univerza v Ljubljani,0,ULJUBLJANA,C07
 University of Leuven/KU Leuven/Catholic University of Leuven,0,ULEUVEN,C07
 Lebanese University,0,ULEBANON,C07
-Eloy Alfaro Secular University of ManabÃ­Â /Universidad Laica Eloy Alfaro de Manabi,0,ULEAM,C07
-UniversitÃ¤ts- und Landesbibliothek Tirol/University and State Library for Tyrol,0,ULB-TIROL,C07
-UniversitÃ© Laval/ Laval University,0,ULAVAL,C07
+Eloy Alfaro Secular University of ManabÃƒÂ­Ã‚Â /Universidad Laica Eloy Alfaro de Manabi,0,ULEAM,C07
+UniversitÃƒÂ¤ts- und Landesbibliothek Tirol/University and State Library for Tyrol,0,ULB-TIROL,C07
+UniversitÃƒÂ© Laval/ Laval University,0,ULAVAL,C07
 Universiteit Leiden -Leiden University,0,UL10,C07
 UK for UNHCR,0,UK-UNHCR,C05
 Kobe University/SHINDAI,0,UKOBE,C07
@@ -829,23 +833,23 @@ United Federation of Travel Agents' Associations (UFTAA),0,UFTAA,C02
 Universidad de la Frontera/University of La Frontera,0,UFRONTERA,C07
 Framingham State University,0,UFRAMINGHAM,C07
 Flame University,0,UFLAME,C07
-Universidade de Ã‰vora/University of Ã‰vora,0,UEVORA,C07
+Universidade de Ãƒâ€°vora/University of Ãƒâ€°vora,0,UEVORA,C07
 University of Essex,0,UESSEX,C07
-West African Economic and Monetary Union/Union Ã©conomique et monÃ©taire ouest-africaine),0,UEMOA,C04E
+West African Economic and Monetary Union/Union ÃƒÂ©conomique et monÃƒÂ©taire ouest-africaine),0,UEMOA,C04E
 Union of European Football Associations (UEFA)/UEFA Foundation,0,UEFA,C05
 University of Edinburgh,0,UEDI,C07
 "UNIVERSIDAD EAN JUSTAPAZ, COLOMBIA",0,UEANJ,C07
 University of Doha for Science and Technology,0,UDOHA,C07
 Universidad de Malaga/University of Malaga,0,UDM,C07
 Universidad De Las Palmas De Gran Canaria/The University of Las Palmas de Gran Canaria,0,UDLPDGC,C07
-UniversitÃ© de Lyon (FRANCE),0,UDL,C07
+UniversitÃƒÂ© de Lyon (FRANCE),0,UDL,C07
 Universitat de Girona/University of Girona,0,UDG,C07
 Delft University of Technology,0,UDELFT,C07
-UniversitÃ© de Bordeaux/ University of Bordeaux,0,UDB,C07
+UniversitÃƒÂ© de Bordeaux/ University of Bordeaux,0,UDB,C07
 UNIVERSITY OF DURHAM INT'L BOUNDARIES RESEARCH UNIT/DURHAM UNIVERSITY,0,UDB21,C07
-"UniversitÃ© d'Angers/ESTHUA - FacultÃ© de Tourisme, Culture et HospitalitÃ©",0,UDA,C07
+"UniversitÃƒÂ© d'Angers/ESTHUA - FacultÃƒÂ© de Tourisme, Culture et HospitalitÃƒÂ©",0,UDA,C07
 Universidad de Cuenca/University of Cuenca,0,UCUENCA,C07
-Universidade da CoruÃ±a/  University of  Coruna,0,UCORUNA,C07
+Universidade da CoruÃƒÂ±a/  University of  Coruna,0,UCORUNA,C07
 University Of Copenhagen,0,UCOP,C07
 UNIVERSIDAD DE CONCEPCION/University of Concepcion,0,UCONCEPCION,C07
 Universidad Complutense de Madrid/Complutense University,0,UCM,C07
@@ -853,23 +857,23 @@ UNITED CITIES AND LOCAL GOVERNMENTS,0,UCLG,C04E
 University College London (UCL),0,UCL,C07
 University of Chester,0,UCHESTER,C07
 Univerzitet Crne Gore (University of Montenegro),0,UCG,C07
-"University of Central Florida/Universal Orlando Foundation Library/â€œRosen Library,",0,UCF,C07
+"University of Central Florida/Universal Orlando Foundation Library/Ã¢â‚¬Å“Rosen Library,",0,UCF,C07
 University of California ,0,UCDAVIS,C07
 "University College Dublin, National University of Ireland Dublin (IRELAND)",0,UCD,C07
 Union De Ciudades Iberoamericanas/The Union of Ibero-American Capital Cities (UCCI),0,UCCI,C02
 Universidad Cooperativa de Colombia/Cooperative University of Colombia,0,UCC,C07
 UNIVERSITE CHRETIENNE BILINGUE DU CONGO/Christian Bilingual University of Congo,0,UCBDC,C07
-"Universidad CatÃ³lica Boliviana San Pablo""""",0,UCB,C07
+"Universidad CatÃƒÂ³lica Boliviana San Pablo""""",0,UCB,C07
 Universidad Catolica de Salta/Catholic University of Salta,0,UCASAL,C07
 "University College, Birmingham",0,UCAS,C07
 Cappadocia University,0,UCAPPADOCIA,C07
 CAMBRIDGE UNIVERSITY PRESS/UNIVERSITY OF CAMBRIDGE,0,UCAMBRIDGE,C07
-"Universidad CatÃ³lica San Antonio de Murcia/
+"Universidad CatÃƒÂ³lica San Antonio de Murcia/
 Catholic University of Murcia",0,UCAM,C07
-UniversitÃ¤t Bremen/University of Bremen,0,UBREMEN,C07
+UniversitÃƒÂ¤t Bremen/University of Bremen,0,UBREMEN,C07
 Universidad Blas Pascal/Blas Pascal University,0,UBP,C07
 Bournemouth University,0,UBOURNE,C07
-Bocconi University or UniversitÃ  Bocconi,0,UBOCCONI,C07
+Bocconi University or UniversitÃƒÂ  Bocconi,0,UBOCCONI,C07
 University of Birmingham,0,UBIRHAM,C07
 "Uber Technologies, Inc.",0,UBER,C06
 Universidad de Buenos Aires/Facultad Ciencias Economicas Universiad de Buenos,0,UBA10,C07
@@ -877,7 +881,7 @@ Universidad Americana de Paraguay/American University of Paraguay,0,UAMERICANA,C
 Universidad Autonoma de Madrid/Autonomous University of Madrid,0,UAM,C07
 Universidad Autonoma del Estado de Mexico/Autonomous University of Mexico State,0,UAEM,C07
 Universidad Argentina de la Empresa (UADE)/Argentine Business University,0,UADE,C07
-Universidad de AlmeriÂ­a - Biblioteca/University of AlmerÃ­a,0,UAB,C07
+Universidad de AlmeriÃ‚Â­a - Biblioteca/University of AlmerÃƒÂ­a,0,UAB,C07
 University of Aveiro/Universidade de Aveiro,0,UA23,C07
 Ukraine,1,UA,C01
 SRSG on Violence against Children,0,U99965,C04C
@@ -890,7 +894,7 @@ The Wilson Foundation,0,TWF11,C05
 Taiwan (Province of China)***,1,TW,C01
 INTERNATIONAL VISEGRAD FUND,0,TVGIVF,C04E
 Tuvalu,1,TV,C01
-Turkish Industry and Business Association (TÃ¼rk Sanayicileri ve Ä°ÅŸ Ä°nsanlarÄ± DerneÄŸi),0,TUSIAD,C02
+Turkish Industry and Business Association (TÃƒÂ¼rk Sanayicileri ve Ã„Â°Ã…Å¸ Ã„Â°nsanlarÃ„Â± DerneÃ„Å¸i),0,TUSIAD,C02
 TUROFED-Turkish Hoteliers Federation,0,TUROFED,C02
 The Karen and Peter Turkstra Family Foundation Fund/ Turkstra Foundation,0,TURKSTRA,C05
 Doga Koruma Merkezi (The Nature Conservation Centre),0,TUR-DKM,C02
@@ -921,7 +925,7 @@ RESOURCE FOUNDATION,0,TRF,C05
 Tree Aid,0,TREEAID,C05
 TRANSPARENCY INTERNATIONAL,0,TRANSI,C02
 Trafigura Foundation,0,TRAFIGURA,C05
-TÃ¼rkiye,1,TR,C01
+TÃƒÂ¼rkiye,1,TR,C01
 Tourism Promotion Organization for Asia Pacific Cities (TPO),0,TPO,C02
 The Pacific Community,0,TPC,C04E
 The Property Business Network Association,0,TPBNA,C02
@@ -935,7 +939,7 @@ Tongji University,0,TONGJI,C07
 Tokyo Institute of Technology,0,TOKYOI,C07
 Tokai University,0,TOKAIU,C07
 The Obel Family Fund/Det Obelske Familiefond,0,TOFF,C05
-TOBB-Union of Chambers and Commodity Exchanges of TÃ¼rkiye,0,TOBB,C02
+TOBB-Union of Chambers and Commodity Exchanges of TÃƒÂ¼rkiye,0,TOBB,C02
 Tonga,1,TO,C01
 The Defeat-NCD Partnership,0,TNCD,C02
 Tunisia,1,TN,C01
@@ -954,7 +958,7 @@ The Tides Foundation,0,TIDES,C05
 TIAC-Tourism Industry Association of Canada,0,TIAC,C02
 The Helsingin Sanomat Foundation,0,THSF,C05
 THE HUNGER PROJECT - NEW YORK,0,THP,C02
-Technische Hochschule KÃ¯Â¿Â½ln,0,THK,C07
+Technische Hochschule KÃƒÂ¯Ã‚Â¿Ã‚Â½ln,0,THK,C07
 The Howat Foundation,0,THF01,C05
 THE HUNTER FOUNDATION,0,THF,C05
 The Genesis Charitable Trust,0,THETRUST,C05
@@ -1007,7 +1011,7 @@ TAWREEQ HOLDINGS,0,TAWREEQ,C06
 Tanzania Association of Tour Operators,0,TATP,C02
 TAROM Foundation (TAROM),0,TAROM,C05
 Yayasan Bhakti Tanoto/Tanoto Foundation,0,TANOTO,C05
-Global Charity Association for Development (Tanmeia)Â /Tanmeia Foundation,0,TANMEIA,C05
+Global Charity Association for Development (Tanmeia)Ã‚Â /Tanmeia Foundation,0,TANMEIA,C05
 Texas A&M University,0,TAMU,C07
 Tampere University of Applied Sciences/ Tampere Foundation,0,TAMK,C07
 The Amahoro Coalition,0,TAMCO,C02
@@ -1043,7 +1047,7 @@ Stop Hunger,0,STOPH,C05
 Stockton University,0,STOCKTON,C07
 St. Luke's International University (JAPAN),0,ST-LUKE,C07
 SALAAM TAKAFUL LIMITED,0,STL,C06
-St Jude Childrenâ€™s Research Hospital (USA),0,STJUDE,C07
+St Jude ChildrenÃ¢â‚¬â„¢s Research Hospital (USA),0,STJUDE,C07
 UNIVERSITY OF STIRLING,0,STIRLING,C07
 Stichting VUMC (NETHERLANDS,0,Stichting,C05
 Stichting IDH Sustainable Trade Initiative,0,STICHIDH,C05
@@ -1084,22 +1088,22 @@ Share Our Strength/No Kid Hungry,0,SOS11,C02
 SOROS FOUNDATION,0,SOROS,C05
 Sophia University Tokyo,0,SOPHIAUNIV,C07
 SOMPO HOLDINGS INC,0,SOMPO,C06
-Sommet Education SÃ¢rl,0,SOMMET,C07
+Sommet Education SÃƒÂ¢rl,0,SOMMET,C07
 Solidaridad REC SSEA( Regional Expertise Centre South & South East Asia),0,SOLIDARIDA,C02
 "Sol Consulting, Inc.",0,SOL,C06
 Istituto Buddista Soka Gakkai (SGI),0,SOKA,C02
 School of International Futures Ltd.,0,SOIF,C07
 Sodexo SVC India Pvt. Ltd.,0,SODEXO,C06
-SOCIEDAD DE PROMOCIÃ“N Y DESARROLLO ECONÃ“MICO DE LA ISLA DE LA PALMA SAU/COMPANY FOR PROMOTION AND ECONOMIC DEVELOPMENT OF THE ISLAND OF LA PALMA SAU.,0,SODEPAL,C02
+SOCIEDAD DE PROMOCIÃƒâ€œN Y DESARROLLO ECONÃƒâ€œMICO DE LA ISLA DE LA PALMA SAU/COMPANY FOR PROMOTION AND ECONOMIC DEVELOPMENT OF THE ISLAND OF LA PALMA SAU.,0,SODEPAL,C02
 SOAS University of London,0,SOAS,C07
 Somalia,1,SO,C01
 SNV - Stichting Nederlandse Vrijwilligers,0,SNV,C02
 Seoul National University Asia Center,0,SNUAC,C07
 Shanghai Normal University (SNU),0,SNU,C07
-Scotland Northern Ireland ForumÂ forÂ Environmental Research,0,SNIFFER,C02
+Scotland Northern Ireland ForumÃ‚Â forÃ‚Â Environmental Research,0,SNIFFER,C02
 "Southern New Hampshire University,",0,SNHU,C05
-The SociÃ©tÃ© nationale des chemins de fer Fondation/SNCF Fondation,0,SNCFF,C05
-Spanish Network for Accessible Tourism (Red EspaÃ±ola de Turismo Accesible/ Red Estable,0,SNAT,C02
+The SociÃƒÂ©tÃƒÂ© nationale des chemins de fer Fondation/SNCF Fondation,0,SNCFF,C05
+Spanish Network for Accessible Tourism (Red EspaÃƒÂ±ola de Turismo Accesible/ Red Estable,0,SNAT,C02
 Senegal,1,SN,C01
 SOVEREIGN MILITARY ORDER OF MALTA VIENNA,0,SMOM,C02
 Stichting Maastricht Economic Research Institute on Innovation and Technology,0,SMMERIIT,C07
@@ -1114,7 +1118,7 @@ SKIPTON INTERNATIONAL LIMITED,0,SKIPTONINT,C02
 SKIPTON BUILDING SOCIETY,0,SKIPTON,C06
 NC-Spain Kutxa Foundation,0,SKF,C05
 SK Bioscience,0,SKB,C06
-TOURISM IN SKÃ…NE AB,0,SKANEAB,C03
+TOURISM IN SKÃƒâ€¦NE AB,0,SKANEAB,C03
 Slovakia,1,SK,C01
 "St. John Eye Hospital,",0,SJEH,C06
 Svalbard and Jan Mayen Islands,1,SJ,C01
@@ -1159,10 +1163,10 @@ San Francisco Fleet Week Association,0,SFFW22,C02
 University of Vienna,0,SFFW,C07
 Sheikha Fatima Fund for Refugee Women,0,SFF,C05
 Seven Circles for Management Consultancy LLC,0,SEVEN-CIRCLES,C06
-TheÂ Japan FederationÂ ofÂ Service & TourismÂ IndustriesÂ Workers'Â Unions,0,SERVICE-RENGO,C02
+TheÃ‚Â Japan FederationÃ‚Â ofÃ‚Â Service & TourismÃ‚Â IndustriesÃ‚Â Workers'Ã‚Â Unions,0,SERVICE-RENGO,C02
 Seqirus,0,SEQIRUS,C06
-Sociedad EspaÃ±ola de Medicina GeriÃ¡trica (SEMEG)/European Geriatric Medicine Society,0,SEMEG,C02
-"State Commercial Society for the Management of Innovation and Tourism Technologies, SAMP/ SEGITTUR/Sociedad Mercantil Estatal para la GestiÃ³n de la InnovaciÃ³n y las TecnologÃ­as TurÃ­sticas, S.A.M.P",0,SEGITTUR,C02
+Sociedad EspaÃƒÂ±ola de Medicina GeriÃƒÂ¡trica (SEMEG)/European Geriatric Medicine Society,0,SEMEG,C02
+"State Commercial Society for the Management of Innovation and Tourism Technologies, SAMP/ SEGITTUR/Sociedad Mercantil Estatal para la GestiÃƒÂ³n de la InnovaciÃƒÂ³n y las TecnologÃƒÂ­as TurÃƒÂ­sticas, S.A.M.P",0,SEGITTUR,C02
 The Ibero-American General Secretariat,0,SEGIB,C04E
 SEGUROS BOLIVAR/Grupo Bolivar (Grupo Bolivar SA),0,SEGBOL,C06
 SEG-Swiss Education Group,0,SEG,C07
@@ -1176,12 +1180,12 @@ Sweden,1,SE,C01
 SHENZHEN DIANMAO TECHNOLOGY COMPANY,0,SDTC,C06
 SDSN ASSOCIATION INC,0,SDSN,C02
 SDG Philanthropy Platform,0,SDGPLTHRY,C02
-SociÃ©tÃ© des Explorations de Monaco,0,SDEM,C02
+SociÃƒÂ©tÃƒÂ© des Explorations de Monaco,0,SDEM,C02
 SAN DIEGO BOTANIC GARDEN/ SAN DIEGO BOTANIC GARDEN FOUNDATION,0,SDBG,C05
 Sudan,1,SD,C01
 SC Johnson Professional,0,SCJP,C06
 Science Diplomacy Center,0,SCID,C07
-The SchÃ¶rling Family Foundation Family,0,SCHORLINGF,C05
+The SchÃƒÂ¶rling Family Foundation Family,0,SCHORLINGF,C05
 SCG Foundation,0,SCG,C05
 Special Climate Change Fund,0,SCCF,C04B
 CAN-Secretariat of the Convention on Biological Diversity (SCBD),0,SCBD,C03
@@ -1203,7 +1207,7 @@ Edmond J. Safra Foundation,0,SAFRAF,C05
 Saferworld,0,SAFERWORLD,C02
 Swiss Association for Entrepreneurship in Emerging Markets,0,SAFEEM,C02
 Southern African Development Community,0,SADC,C04E
-The SaudiÂ British BankÂ (SABB),0,SABB,C04A
+The SaudiÃ‚Â British BankÃ‚Â (SABB),0,SABB,C04A
 SABANCI FOUNDATION,0,SABANCI,C05
 Saudi Arabia,1,SA,C01
 S&P Global Foundation,0,S&PGlobal,C05
@@ -1225,7 +1229,7 @@ Serbia,1,RS,C01
 RUBAN ROSE (FRANCE),0,RROSE,C05
 R PLUS V VERSICHERUNG AG,0,RPV,C02
 RPA Europe,0,RPA,C06
-AssociaÃ§Ã£o de HotÃ©is Roteiros de Charme/Roteiros de Charme Hotel Association,0,ROTEIROS,C02
+AssociaÃƒÂ§ÃƒÂ£o de HotÃƒÂ©is Roteiros de Charme/Roteiros de Charme Hotel Association,0,ROTEIROS,C02
 Rotary International,0,ROTARY,C02
 Rosa Luxemburg Foundation,0,ROSALUX,C05
 Fondazione Romualdo del Bianco/The Romualdo Del Bianco Foundation ,0,ROMUALDO,C05
@@ -1247,7 +1251,7 @@ Ritsumeikan University,0,RITSUMEI,C07
 Research Institute of Tuberculosis/ Japan Anti-Tuberculosis Association (RIT/JATA),0,RIT-JATA,C07
 "Rissho Kosei-Kai, Japan",0,RISSHO,C05
 RISK MANAGEMENT SOLUTIONS,0,RISK,C02
-THEÂ REGIONAL INTEGRATED MULTI-HAZARDÂ EARLY WARNING SYSTEM FOR AFRICA AND ASIA (RIMES),0,RIMES,C04E
+THEÃ‚Â REGIONAL INTEGRATED MULTI-HAZARDÃ‚Â EARLY WARNING SYSTEM FOR AFRICA AND ASIA (RIMES),0,RIMES,C04E
 Rikkyo University/Saint Paul's University,0,RIKKYO,C07
 RIAT-Russian International Academy for Tourism,0,RIAT,C07
 RELIEF INTERNATIONAL/ RI ALLIANCE,0,RI33,C02
@@ -1279,7 +1283,7 @@ Responsible Borneo,0,REBORN,C05
 Real Estate Fund Proxy Donor,0,REALPRO,C08B
 Reale Mutua Foundation,0,REALEFOUND,C05
 Reaching U,0,REACH,C05
-RÃ©union,1,RE,C01
+RÃƒÂ©union,1,RE,C01
 "Regional Development and Protection Programme for Lebanon, Jordan and Iraq (RDPP II)",0,RDDP,C04E
 Regional Coordinator System,0,RCS-PROJ,C04C
 Faculty of Nursing and Midwifery - Royal College of Surgeons Ireland (RCSI),0,RCSI,C07
@@ -1319,7 +1323,7 @@ UNIVERSITY OF THE REPUBLIC OF URUGUAY,0,PUTURY,C07
 Purpose Foundation,0,PURPOSEFDN,C05
 PUMA SE,0,PUMA,C06
 FUNDACIO PRIVADA PUIG/MIR-PUIG FOUNDATION,0,PUIGFOUND,C05
-Pontifical Catholic University of Peru (Pontificia Universidad CatÃ³lica del PerÃº (PUCP)),0,PUCP,C07
+Pontifical Catholic University of Peru (Pontificia Universidad CatÃƒÂ³lica del PerÃƒÂº (PUCP)),0,PUCP,C07
 Pontificia Universidad Catolica Madre y Maestra,0,PUCMM,C07
 Politecnico di Torino/Polytechnic of Turin,0,PTURIN,C07
 "PandemicTech, Texas",0,PTECH,C06
@@ -1334,13 +1338,13 @@ Prudential Plc,0,PRUDENT,C05
 The Prudential Foundation,0,PRU,C05
 Profuturo Foundation,0,PROFUTURO,C05
 Protector Forsikring ASA,0,PROFOR,C06
-CorporaciÃ³n PROCASUR/PROCASUR Corporation,0,PROCASUR,C06
+CorporaciÃƒÂ³n PROCASUR/PROCASUR Corporation,0,PROCASUR,C06
 Probitas Foundation/Foundation Probitas,0,PROBITAS,C05
 Private Sector,0,PRIVATE,C06
 The Peace Research Institute Oslo (PRIO),0,PRIO,C07
 THE PREM RAWAT FOUNDATION,0,PREMRAWAT,C05
 Pre Consultants B.V.,0,PRECON,C05
-Programa Regional para Acelerar la ErradicaciÃ³n del Trabajo Infantil en AmÃ©rica Latina y el Caribe (PRAETI),0,PRAETI,C08B
+Programa Regional para Acelerar la ErradicaciÃƒÂ³n del Trabajo Infantil en AmÃƒÂ©rica Latina y el Caribe (PRAETI),0,PRAETI,C08B
 PRADA,0,PRADA,C06
 Puerto Rico,1,PR,C01
 "Productora de Pulpas Soledad, Propulso C.A/PULP PRODUCER SOLEDAD PROPULSO CA,",0,PPSP,C06
@@ -1350,7 +1354,7 @@ The Swedish Postcode Foundation,0,POSTKODFDN,C05
 POSCO 1% Foundation,0,POSCO,C05
 Museu Futebol Clube Do Porto/FC Porto Museum,0,PORTO,C05
 HTM-The Hong Kong Polytechnic University,0,POLYU,C07
-"Popular Front for the Liberation of Saguia el-Hamra and RÃ­o de Oro,                                        Frente Popular para la LiberaciÃ³n de Saguia el-Hamra y RÃ­o de Oro -Spanish",0,POLISARIO,C08B
+"Popular Front for the Liberation of Saguia el-Hamra and RÃƒÂ­o de Oro,                                        Frente Popular para la LiberaciÃƒÂ³n de Saguia el-Hamra y RÃƒÂ­o de Oro -Spanish",0,POLISARIO,C08B
 Politecnico Grancolombiano/Grancolombiano Polytechnic,0,POLI,C07
 POLITICAL NETWORK FOR VALUES INC,0,PNFV,C02
 Pitcairn,1,PN,C01
@@ -1361,14 +1365,14 @@ Plant for the Planet Foundation,0,PLANTP,C05
 PLAN INTERNATIONAL,0,PLAN,C02
 Poland,1,PL,C01
 Pakistan,1,PK,C01
-"THEÂ PACIFIC INSTITUTE FOR STUDIES INÂ DEVELOPMENT, ENVIRONMENT, AND SECURITY",0,P-INSTITUTE,C07
+"THEÃ‚Â PACIFIC INSTITUTE FOR STUDIES INÃ‚Â DEVELOPMENT, ENVIRONMENT, AND SECURITY",0,P-INSTITUTE,C07
 People in Need,0,PIN13,C02
 PILnet,0,PILNET,C02
 Partners In Health,0,PIH,C02
 "Palestine Islamic Bank,",0,PIB,C06
 PhosAgro,0,PHOSAGRO,C06
 PHILIPPINES NATIONAL COMMITTEE,0,PHINC,C02
-Plan Hemisferico para la ErradicaciÃ³n de la Fiebre Aftosa (PHEFA) Trust Fund,0,PHEFA,C03
+Plan Hemisferico para la ErradicaciÃƒÂ³n de la Fiebre Aftosa (PHEFA) Trust Fund,0,PHEFA,C03
 Philippines,1,PH,C01
 Papua New Guinea,1,PG,C01
 USAIM,0,PFDAIM,C05
@@ -1411,7 +1415,7 @@ Penny Appeal,0,PAB,C05
 Prince Albert II of Monaco Foundation,0,PA2F,C05
 Panama,1,PA,C01
 University of Oxford ,0,OXFORD,C07
-Oxfam IntermÃ³n /Oxfam International,0,OXFAM,C02
+Oxfam IntermÃƒÂ³n /Oxfam International,0,OXFAM,C02
 Outright Action International,0,OUTRIGHT,C02
 Ocean University of China,0,OUC,C07
 UNION OF ORTHODOX JEWISH CONGREGATION,0,OU33,C02
@@ -1451,20 +1455,20 @@ WFP Private Online Donors (CPP),0,OnLineDonors,C06
 One Foundation,0,ONEFOUND,C05
 ONE FEEDS TWO,0,OneFeedsTwo,C05
 One Earth,0,ONEEARTH,C07
-ONCE Foundation (FundaciÃ³n ONCE),0,ONCE11,C05
-"National Organization of Spanish Blind People7/OrganizaciÃ³n Nacional de Ciegos EspaÃ±oles (ONCE)- ONCE,",0,ONCE,C05
+ONCE Foundation (FundaciÃƒÂ³n ONCE),0,ONCE11,C05
+"National Organization of Spanish Blind People7/OrganizaciÃƒÂ³n Nacional de Ciegos EspaÃƒÂ±oles (ONCE)- ONCE,",0,ONCE,C05
 Omidyar Network Fund,0,OMIDYAR,C05
 Oman,1,OM,C01
 FUNDACION OLIVO/OLIVO Foundation,0,OLIVOF,C05
 Olam International Limited,0,OLAM,C06
-OrganizaciÃ³n Iberoamericanade Seguridad Social (OISS),0,OISS,C04E
+OrganizaciÃƒÂ³n Iberoamericanade Seguridad Social (OISS),0,OISS,C04E
 International Organisation of the Francophonie/AGENCE INTERGOUVERNEMENTALE DE LA FRANCOPHONIE,0,OIF,C04E
 "The World Organisation for Animal Health, formerly the Office International des Epizooties",0,OIE,C04E
-TheÂ OrganisationÂ ofÂ Islamic CooperationÂ (OIC) (formerlyÂ Organization of the Islamic Conference),0,OIC,C02
+TheÃ‚Â OrganisationÃ‚Â ofÃ‚Â Islamic CooperationÃ‚Â (OIC) (formerlyÃ‚Â Organization of the Islamic Conference),0,OIC,C02
 Office of HBCU Development & International Cooperation,0,OHBCU,C02
 The Oil and Gas Climate Initiative (OGCI),0,OGCI,C02
 The OPEC Fund for International Development,0,OFID,C04E
-Orquesta FilarmÃ¯Â¿Â½nica de BogotÃ¯Â¿Â½,0,OFB,C05
+Orquesta FilarmÃƒÂ¯Ã‚Â¿Ã‚Â½nica de BogotÃƒÂ¯Ã‚Â¿Ã‚Â½,0,OFB,C05
 Organizacion de Estados Iberoamericanos para la Educacion y la Ciencia,0,OEI,C04E
 The Organisation for Economic Co-operation and Development (OECD),0,OECD,C04E
 OPEN DEVELOPMENT & EDUCATION LIMITED,0,ODEL,C06
@@ -1483,7 +1487,7 @@ New Zealand,1,NZ,C01
 NYU School of Professional Studies/New York University School of Continuing Education/New York University.,0,NYUNI,C07
 Nysatis Foundation,0,NYSATIS,C05
 New Venture Fund,0,NVF,C02
-SÃ–DERTÃ–RN UNIVERSITY,0,NUTSOD,C07
+SÃƒâ€“DERTÃƒâ€“RN UNIVERSITY,0,NUTSOD,C07
 Nutrition International,0,NUTRITIONINTL,C05
 UNIVERSITY OF FRIBOURG,0,NUTFRB,C07
 EUROPEAN UNIVERSITY ASSOCIATION,0,NUTEUA,C07
@@ -1507,7 +1511,7 @@ Nepal,1,NP,C01
 NOVUS SUMMIT INC,0,NOVUS,C02
 Nova SBE Westmont Institute of Tourism & Hospitality,0,NOVASBE,C07
 Novartis/Novartis Foundation,0,NOVARTIS,C05
-FundaciÃ³n Privada Nous Cims/NOUS CIMS PRIVATE FOUNDATION,0,NOUS-CIMS,C05
+FundaciÃƒÂ³n Privada Nous Cims/NOUS CIMS PRIVATE FOUNDATION,0,NOUS-CIMS,C05
 North-Ossetian State University,0,NOSU,C07
 Norrsken Foundation,0,NORRSKENFD,C05
 THE NORDIC DELEGATION TO -ICAO,0,NORDICAO,C04E
@@ -1541,7 +1545,7 @@ Norwegian Institute for Air Research - Norsk institutt for luftforskning,0,NILU,
 Nike Inc.,0,NIKE,C06
 National Institute of Develop.Administration(NIDA),0,NIDA,C07
 Nicola Wealth Private Giving Foundation,0,NIC-FOUND,C05
-NATIONAL ITALIAN AMERICAN FOUNDATIONÂ  Â ,0,NIAF,C05
+NATIONAL ITALIAN AMERICAN FOUNDATIONÃ‚Â  Ã‚Â ,0,NIAF,C05
 Nutrition International (Micronutrient Initiative),0,NI10,C02
 Nicaragua,1,NI,C01
 NATIONAL HUMAN RIGHTS COMMITTEE OF QATAR,0,NHRC-QA,C02
@@ -1556,14 +1560,14 @@ Newlands Clinic,0,NEWLANDS,C06
 Neuroendocrine Tumor Research Foundation (USA),0,NETRF,C05
 Netlight Consulting AB,0,NETLIGHT,C06
 NetDragon,0,NETDRAGON,C06
-"NestlÃ©, S.A.",0,NESTLE,C06
+"NestlÃƒÂ©, S.A.",0,NESTLE,C06
 Natural Environment Research Council (NERC),0,NERC,C07
 The Nando and Elsa Peretti Foundation,0,NEPFOUND,C05
 National Education Trust (NECT),0,NECT,C03
 Network of European Regions for Competitive and Sustainable Tourism,0,NECSTOUR,C02
 Universidad Antonio de Nebrija/Nebrija University,0,NEBRIJA,C07
 Niger,1,NE,C01
-Natura Distribuidora de MÃ©xico,0,NDM,C02
+Natura Distribuidora de MÃƒÂ©xico,0,NDM,C02
 Nordic Development Fund,0,NDF,C04A
 NDC Partnership Fund/NDC Partnership Action Fund (PAF),0,NDCPAF,C04B
 Nordic Council of Ministers,0,NCMD,C04E
@@ -1591,10 +1595,10 @@ MILLENNIUM VILLAGES INTERNATIONAL,0,MVI,C02
 Maldives,1,MV,C01
 Macau University of Science and Technology,0,MUST,C07
 MUNTADA AID,0,MUNTADA,C02
-Munich Reinsurance Company/ MÃ¼nchener RÃ¼ck Stiftung/Munich Re Foundation,0,MUNICHRE,C05
+Munich Reinsurance Company/ MÃƒÂ¼nchener RÃƒÂ¼ck Stiftung/Munich Re Foundation,0,MUNICHRE,C05
 NATIONAL MODEL UNITED NATIONS,0,MUN,C07
 Mahidol University International College (MUIC),0,MUIC,C07
-Hochschule MÃ¼nchen/Munich University of Applied Sciences,0,MUAS,C07
+Hochschule MÃƒÂ¼nchen/Munich University of Applied Sciences,0,MUAS,C07
 Mauritius,1,MU,C01
 MTN Foundation,0,MTN,C05
 Malta,1,MT,C01
@@ -1631,17 +1635,17 @@ Manchester Metropolitan University,0,MMU,C07
 MARSH & MCLENNAN COMPANIES INC,0,MMCLENNAN,C06
 Myanmar,1,MM,C01
 MOUVEMENT DE LA PAIX/PEACE MOVEMENT,0,MLP,C02
-Fondation Marc Ladreit de LacharriÃ¨/Marc Ladreit de LacharriÃ¨re Foundation,0,MLL,C05
+Fondation Marc Ladreit de LacharriÃƒÂ¨/Marc Ladreit de LacharriÃƒÂ¨re Foundation,0,MLL,C05
 Maple Leaf Foods,0,MLF11,C06
 Mali,1,ML,C01
 Mount Kenya University,0,MKU,C07
 Mary Kay Foundation,0,MKF,C05
 North Macedonia,1,MK,C01
 Mizuho Research Institute Ltd/Mizuho Financial Group,0,MIZUHO,C06
-Instituto de FormaÃ§ao Turistica (Macao)/Macao institute of tourism studies,0,MITS,C07
+Instituto de FormaÃƒÂ§ao Turistica (Macao)/Macao institute of tourism studies,0,MITS,C07
 Mississippi State University,0,MISSU,C07
 MiSK Foundation,0,MISK,C05
-BischÃ¶fliches Hilfswerk Misereor e.V./Episcopal relief organization Misereor,0,MISEREOR,C05
+BischÃƒÂ¶fliches Hilfswerk Misereor e.V./Episcopal relief organization Misereor,0,MISEREOR,C05
 ASSOCIATION MIRAISME INTERNATIONAL,0,MIRAISME,C02
 Other ILO contributors,0,Others-ILO,C08B
 UN Mission in Haiti (MINUSTAH),0,MINUSTAH,C04C
@@ -1657,12 +1661,12 @@ Muslim Hands,0,MH10,C02
 Marshall Islands,1,MH,C01
 MACQUARIE GROUP LIMITED,0,MGL,C06
 Madagascar,1,MG,C01
-MFM Menschen fÃ¼r Menschen/People for People Foundation,0,MFM,C05
+MFM Menschen fÃƒÂ¼r Menschen/People for People Foundation,0,MFM,C05
 Merck Family Foundation/Merck Family Fund,0,MFF,C05
 Miracle Feet,0,MFEET,C02
 Saint Martin (French Part),1,MF,C01
 Asociacion Pujula Liga de Comunidades Mayas IAP/Pujula Association League of Mayan Communities IAP,0,MEX-PUJULA,C02
-"AsociaciÃ¯on de Bancos de Mexico ABM, A.C./Association of Banks of Mexico A.C. (ABM",0,MEX-ABM,C02
+"AsociaciÃƒÂ¯on de Bancos de Mexico ABM, A.C./Association of Banks of Mexico A.C. (ABM",0,MEX-ABM,C02
 Middle East University,0,MEU,C07
 METRO AG,0,METROAG,C05
 The Metlife Foundation,0,METLIFE,C05
@@ -1725,8 +1729,8 @@ Fondation Lydec/ LYDEC Foundation,0,LYDEC,C05
 Libya,1,LY,C01
 The Legal Writing Institute (LWI) - LWI,0,LWI,C02
 Logistics Warehousing for General Trading and Contracting Co. W.L.L.,0,LWGT,C06
-LVMH MOÃ‹T HENNESSY LOUIS VUITTON,0,LVMH,C06
-LVM LANDWIRTSCHAFTLICHER/LVM Agricultural Insurance Association MÃ¼nster Ag,0,LVMA,C02
+LVMH MOÃƒâ€¹T HENNESSY LOUIS VUITTON,0,LVMH,C06
+LVM LANDWIRTSCHAFTLICHER/LVM Agricultural Insurance Association MÃƒÂ¼nster Ag,0,LVMA,C02
 Latvia,1,LV,C01
 Lumina Foundation for Education,0,LUMINA,C05
 Luxembourg,1,LU,C01
@@ -1739,7 +1743,7 @@ Lesotho,1,LS,C01
 Instituto Lojas Renner/Lojas Renner Institute,0,LRI,C02
 Liberia,1,LR,C01
 LOF REGIONERNAS OMSESIDIGA,0,LOFRO,C02
-Ligue Nationale contre le Cancer Puy de DÃ´me,0,LNCCPD,C05
+Ligue Nationale contre le Cancer Puy de DÃƒÂ´me,0,LNCCPD,C05
 Ligue Nationale contre le Cancer Allier,0,LNCCAL,C05
 Ligue Nationale Contre le Cancer,0,LNCC,C05
 Leeds Beckett Univertity/Leeds Metropolitan University,0,LMU,C07
@@ -1771,7 +1775,7 @@ Leonard Cheshire Disability,0,LCH,C02
 Saint Lucia,1,LC,C01
 Loughborough University United Kingdom,0,LBORO,C07
 Lebanon,1,LB,C01
-TheÂ Laudes Foundation/ C&A Foundation,0,LAUDES,C05
+TheÃ‚Â Laudes Foundation/ C&A Foundation,0,LAUDES,C05
 The Church of Jesus Christ of Latter-day Saints,0,LATTER-DAY,C06
 LATAM AIRLINES PERU S A,0,LATAM,C06
 The League of Arab States (LAS)/Arab League,0,LAS,C04E
@@ -1814,9 +1818,9 @@ Saint Kitts and Nevis,1,KN,C01
 Comoros,1,KM,C01
 Kommunal Landspensjonskasse (KLP)/Kommunal Landspensjonskasse mutual insurance company ,0,KLP,C06
 Kerala Institute of Tourism and Travel Studies,0,KITTS,C07
-Karolinska Institutet â€“ KI,0,KISWED,C07
+Karolinska Institutet Ã¢â‚¬â€œ KI,0,KISWED,C07
 Kanagawa International Foundation,0,KIF,C05
-FundaciÃ³n Kielsa/KIELSA Foundation,0,KIELSA,C05
+FundaciÃƒÂ³n Kielsa/KIELSA Foundation,0,KIELSA,C05
 "Karolinska Institutet, Sweden",0,KI22,C07
 Kiribati,1,KI,C01
 Cambodia,1,KH,C01
@@ -1927,10 +1931,10 @@ International Trade Centre,0,ITC,C04C
 ITAU SEGUROS SA/ITAU INSURANCE,0,ITAU,C06
 ITALIAN DIPLOMATIC ACADEMY,0,ITALIANDA,C07
 ITAIPU BINACIONAL,0,ITAIPUB,C02
-FundaÃ§ao Parque Tecnologico Itaipu,0,ITAIPU,C05
+FundaÃƒÂ§ao Parque Tecnologico Itaipu,0,ITAIPU,C05
 INSTITUTE FOR TRANSPORTATION AND DEVELOPMENT,0,ITAD,C02
 Italy,1,IT,C01
-SECRÃ‰TARIAT INTERNATIONAL DE L'EAU - INTERNATIONAL SECRETARIAT FOR WATER,0,ISW,C02
+SECRÃƒâ€°TARIAT INTERNATIONAL DE L'EAU - INTERNATIONAL SECRETARIAT FOR WATER,0,ISW,C02
 Organisation internationale du tourisme social/International Social Tourism Organisation,0,ISTO,C02
 International School Sport Federation,0,ISSF,C02
 INSTITUTE FOR SECURITY STUDIES - IS,0,ISS,C07
@@ -1951,7 +1955,7 @@ Iceland,1,IS,C01
 INTERNATIONAL ROAD TRANSPORT UNION,0,IRTU,C02
 International Residual Mechanism for Criminal Tribunals,0,IRMCT,C04C
 Irish Red Cross Society,0,IRISHRC,C02
-Institut de Recherche et d'Etudes SupÃ©rieures du Tourisme (IREST) - UniversitÃ© Paris 1 PanthÃ©on-Sorbonne,0,IREST,C07
+Institut de Recherche et d'Etudes SupÃƒÂ©rieures du Tourisme (IREST) - UniversitÃƒÂ© Paris 1 PanthÃƒÂ©on-Sorbonne,0,IREST,C07
 "International Renewable Energy Agency,",0,IRENA,C04E
 Rizzoli Orthopaedic Institute (ITALY),0,IRCCS,C07
 Industrial Relations in Bangladesh,0,IRB,C08B
@@ -1989,7 +1993,7 @@ International Nuremberg Principles Academy,0,INPA,C05
 International Nightlife Association,0,INLA,C02
 Inholland University/Hogeschool Inholland,0,INHOLLAND,C07
 Ingersoll Rand Inc.,0,INGERR,C06
-InstituciÃ³n Ferial de Canarias (INFECAR)/CANARY ISLANDS FAIR INSTITUTION,0,INFECAR,C07
+InstituciÃƒÂ³n Ferial de Canarias (INFECAR)/CANARY ISLANDS FAIR INSTITUTION,0,INFECAR,C07
 INSTITUTE FOR NEW ECONOMIC THINKING (INET),0,INET,C07
 INSTITUTION OF NEW ECONOMIC DEVELOPMENT,0,INED,C07
 Industriens Fond,0,Indust-fond,C05
@@ -1998,12 +2002,12 @@ SWEDISH CHAMBER OF COMMERCE INDIA,0,IND-SCCI,C02
 Impact India Foundation,0,IND-IMPACT,C05
 Foundation for Ecological Security,0,IND-FES,C05
 CSR Trust for SDGs in India,0,IND-CSRTR,C02
-Direction de Coordination du Projet INCLUSIF (DCI) Bamako/Les projets de dÃ©veloppement local inclusif (DLI) /INCLUSIVE Project Coordination Directorate (DCI) Bamako/Inclusive local development projects (DLI),0,INCLUSIF,C04B
+Direction de Coordination du Projet INCLUSIF (DCI) Bamako/Les projets de dÃƒÂ©veloppement local inclusif (DLI) /INCLUSIVE Project Coordination Directorate (DCI) Bamako/Inclusive local development projects (DLI),0,INCLUSIF,C04B
 Institute of Nutrition of Central America and Panama (INCAP),0,INCAP,C04E
 THE INTERNATIONAL NETWORK FOR BAMBOO AND RATTAN,0,INBAR,C02
-INATEL Foundation/FundaÃ§Ã£o INATEL,0,INATEL,C05
+INATEL Foundation/FundaÃƒÂ§ÃƒÂ£o INATEL,0,INATEL,C05
 The Inamori Foundation,0,INAMORIF,C05
-Instituto Nacional de CapacitaciÃ³n Profesional/National Institute of Professional Training - INACAP,0,INACAP,C07
+Instituto Nacional de CapacitaciÃƒÂ³n Profesional/National Institute of Professional Training - INACAP,0,INACAP,C07
 India,1,IN,C01
 INTERNATIONAL MEDIA SUPPORT (IMS),0,IMS11,C02
 "International Meat Secretariat, IMS",0,IMS,C02
@@ -2013,7 +2017,7 @@ Information Management and Mine Action Programs (IMMAP),0,IMMAP,C02
 Instituto Medio Gestao Hotelaria e Turismo IMGHT-F,0,IMGHT-FS,C07
 IMF Smart Education/IMF International Business School S.L.,0,IMF20,C07
 International Monetary Fund (IMF),0,IMF,C04A
-Kolektif Etki Derne?i Ã¯Â¿Â½ imece,0,IMECE,C02
+Kolektif Etki Derne?i ÃƒÂ¯Ã‚Â¿Ã‚Â½ imece,0,IMECE,C02
 International Medical Corps,0,IMC,C02
 Isle of Man,1,IM,C01
 International Labour Organization (ILO),0,ILO,C04C
@@ -2037,7 +2041,7 @@ Italian Institute for Genomic Medicine,0,IIGM,C05
 The International Institute for Environment and Development,0,IIED,C07
 International Institute for Democracy and Electoral Assistance,0,IIDEA,C04E
 International Islamic Charity Organization (IICO),0,IICO,C02
-FundaciÃ³ de Recerca ClÃ­nic Barcelona - Instituto de Investigaciones BiomÃ©dicas/Barcelona Biomedical Research Institute,0,IIBB,C05
+FundaciÃƒÂ³ de Recerca ClÃƒÂ­nic Barcelona - Instituto de Investigaciones BiomÃƒÂ©dicas/Barcelona Biomedical Research Institute,0,IIBB,C05
 International Institute for Applied Systems Analysis: IIASA,0,IIASA,C07
 The Graduate Institute of International and Development Studies -IHEID (NORRAG),0,IHEID,C03
 IHE Delft Institute for Water Education,0,IHED,C07
@@ -2055,7 +2059,7 @@ IFP - International Food Policy Research Institute,0,IFPR,C07
 BANCA IFIS SPA,0,IFISSPA,C02
 International Feed Industry Federation TF,0,IFIF,C02
 International Forum Gastein (IFG),0,IFG,C02
-Consortium of the Fair Institution of Castilla y Leon Aie/InstituciÃ³n Ferial de Castilla y LeÃ³n,0,IFCL,C06
+Consortium of the Fair Institution of Castilla y Leon Aie/InstituciÃƒÂ³n Ferial de Castilla y LeÃƒÂ³n,0,IFCL,C06
 International Federation of Standards Users,0,IFAN,C02
 International Federation of Air Line Pilots Associations,0,IFALPA,C02
 International Fund For Agricultural Development,0,IFAD,C04C
@@ -2063,7 +2067,7 @@ International Fund For Agricultural Development,0,IFAD,C04C
 Institute of Business/INSTITUTO DE EMPRESA S.L,0,IEU,C07
 International Ecological Safety Collaborative Organization,0,IESCO,C02
 European Institute of Oncology,0,IEO,C07
-INDIGENOUS ENVIRONMENTAL NETWORKÂ  Â ,0,IEN,C02
+INDIGENOUS ENVIRONMENTAL NETWORKÃ‚Â  Ã‚Â ,0,IEN,C02
 Inland Empire Community Foundation,0,IECF,C05
 IE Business School,0,IEBUS,C07
 International Energy Agency,0,IEA,C04E
@@ -2079,7 +2083,7 @@ Indonesia,1,ID,C01
 International Christian University (ICU),0,ICUN,C07
 International Christian University,0,ICUAC,C07
 The Abdus Salam International Centre for Theoretical Physics,0,ICTP,C07
-Instituto para la Calidad TurÃ­stica EspaÃ±ola y la Sostenibilidad (ICTES)/ INSTITUTE FOR SPANISH TOURIST QUALITY (ICTE),0,ICTES,C07
+Instituto para la Calidad TurÃƒÂ­stica EspaÃƒÂ±ola y la Sostenibilidad (ICTES)/ INSTITUTE FOR SPANISH TOURIST QUALITY (ICTE),0,ICTES,C07
 INTERNATIONAL COMMUNITY SCHOOL,0,ICS22,C07
 International Chamber of Shipping,0,ICS20,C02
 ICRTH Secretariat/International Conference on Responsible Tourism and Hospitality (ICRTH),0,ICRTH,C02
@@ -2123,7 +2127,7 @@ INTERNATIONAL BRAIN RESEARCH ORGANIZATION,0,IBRO,C07
 IBON INTERNATIONAL,0,IBON,C05
 The International Business Machines Corporation (nicknamed Big Blue),0,IBM,C06
 INSTITUTO IBIRAPITANGA/IBIRAPITANGA INSTITUTE,0,IBIRAP,C07
-FundaciÃ³n Iberdrola/IBERDROLA Foundation,0,IBERDROLAF,C05
+FundaciÃƒÂ³n Iberdrola/IBERDROLA Foundation,0,IBERDROLAF,C05
 "Banco Industrial, S.A. (Banco Industrial Guatemala)",0,IBANCO,C06
 International Business Aviation Council,0,IBAC,C02
 IATI International Aid Transparency Initiative,0,IATI,C03
@@ -2137,7 +2141,7 @@ INSTITUTE FOR ADVANCED ENGINEERING,0,IAE,C07
 International Association of Drilling Contractors,0,IADC,C05
 The Inter-American Defense College (IADC)/Inter-American Defense Board (IADB),0,IADB10,C07
 IADB/ The Inter-American Development Bank,0,IADB,C04A
-CorporaciÃ³n ComunicaciÃ³n Iberoamericana BarcelÃ³ Asociados S L/ Ibero-American Communication Corporation Barcelo & Asociados Sl,0,IACC,C02
+CorporaciÃƒÂ³n ComunicaciÃƒÂ³n Iberoamericana BarcelÃƒÂ³ Asociados S L/ Ibero-American Communication Corporation Barcelo & Asociados Sl,0,IACC,C02
 International Alumni Center gGmbH,0,IACBERLIN,C02
 International Anti-Coruption Academy,0,IACA,C04E
 The International Arab Charity,0,IAC,C05
@@ -2171,8 +2175,8 @@ H. Lee Moffitt Cancer Center (USA),0,HLMOFF,C07
 "China, Hong Kong Special Administrative Region",1,HK,C01
 HUMAN INITIATIVE UMMAT,0,HIU,C02
 Horizon Rash Int. Tourism Training Institute,0,HITT,C07
-"Higher Institute for TourismÂ andÂ Hospitality, Saudi Arabia.",0,HITH,C07
-Hiscox underwriting group services limitedÂ ,0,HISCOX,C06
+"Higher Institute for TourismÃ‚Â andÃ‚Â Hospitality, Saudi Arabia.",0,HITH,C07
+Hiscox underwriting group services limitedÃ‚Â ,0,HISCOX,C06
 HIPPINDO,0,HIPPINDO,C06
 International Exchange and Cooperation Center,0,HIECC,C07
 Sociedade Beneficente Israelita Brasileira Albert Einstein - HIAE (BRAZIL)/Albert Einstein Israelite Hospital,0,HIAEBR,C06
@@ -2184,7 +2188,7 @@ Hope Health Action (HHA),0,HHA,C02
 The William and Flora Hewlett Foundation/HP Foundation/Hewlett Foundation,0,HEWLETT,C05
 Herbalife Nutrition Ltd USA,0,HERBALIFE,C06
 Hempel Fonden/Hempel Foundation,0,HEMPELF,C05
-Helvetas Swiss Intercooperation - SecrÃ©tariat Romand/HELVETAS,0,HELVETAS,C02
+Helvetas Swiss Intercooperation - SecrÃƒÂ©tariat Romand/HELVETAS,0,HELVETAS,C02
 HELP Logistics Limited,0,HELP,C06
 The Leona M. and Harry B. Helmsley Charitable Trust/HELMSLEY CHARITABLE TRUST,0,HELMSLEY,C05
 L Ecole des Hautes Etudes Internationales et Politiques (HEIP),0,HEIP,C07
@@ -2214,7 +2218,7 @@ Guinea-Bissau,1,GW,C01
 Good Ventures Foundation (GVF),0,GVF,C05
 "Guttmacher Institute, Inc.",0,GUTTMACHER,C02
 German University of Technology in Oman,0,GUTECH,C07
-Calouste Gulbenkian Foundation/ (FundaÃ§Ã£o Calouste Gulbenkian),0,GULBENIKAN,C05
+Calouste Gulbenkian Foundation/ (FundaÃƒÂ§ÃƒÂ£o Calouste Gulbenkian),0,GULBENIKAN,C05
 Guineatur S.L. Tourism Office,0,GUINEATUR,C02
 The Center for Global Understanding of Sustainable and Experiential Tourism (GUEST),0,GUEST,C07
 Guerlain,0,GUERLAIN,C06
@@ -2283,12 +2287,12 @@ Ghana,1,GH,C01
 Global Geopark Network Association,0,GGNA,C02
 The Global Good Fund,0,GGF,C05
 Guernsey,1,GG,C01
-"Grameen FoundationÂ USA,  (GFUSA)",0,GFUSA,C05
+"Grameen FoundationÃ‚Â USA,  (GFUSA)",0,GFUSA,C05
 "The Global Fund to Fight AIDS, Tuberculosis and Malaria - The Global  Fund",0,GFUND,C04B
 Guangdong Fogang Rural Commercial Bank,0,GFRC,C06
 Global Foundation for the Performing Arts,0,GFPA,C05
 Social Protection Flagship Programme,0,GFP,C04B
-Stiftung FÃ¯Â¿Â½rstlicher Kommerzienrat Guido Feger Foundation,0,GFF,C05
+Stiftung FÃƒÂ¯Ã‚Â¿Ã‚Â½rstlicher Kommerzienrat Guido Feger Foundation,0,GFF,C05
 Global Fund to End Modern Slavery,0,GFEMS,C04B
 Global Forum Cyber Expert,0,GFCE,C03
 French Guiana,1,GF,C01
@@ -2354,25 +2358,25 @@ Global Genomic Medicine Collaborative - G2MC (USA),0,G2MCUS,C02
 The Lego Foundation,0,FX-LEGO,C05
 Elion Foundation,0,FX-ELION,C05
 Education above all Foundation,0,FX-EAAF,C05
-Research Foundation â€“ Flanders,0,FWO,C05
+Research Foundation Ã¢â‚¬â€œ Flanders,0,FWO,C05
 Futures Without Violence,0,FWF,C02
 Fondazione Umberto Veronesi,0,FUV,C05
 FRANKLIN UNIVERSITY SWITZERLAND,0,FUS,C07
 FUNDACION MEXICANA PARA LA SALUD/ The Mexican Foundation for Health,0,FUNSALUD,C05
 FUNDACION POPULAR INC,0,FUNPOPULAR,C05
 Fundacao Oriente,0,FUNORIENTE,C05
-FundaciÃ³n Inciensa,0,FUNIN,C05
-FundaÃ§Ã£o Vale do Rio Doce/Vale do Rio Doce Foundation,0,FUNDVALE,C05
-Renova Foundation/(FundaÃ§Ã£o Renova),0,FUNDRENOVA,C05
-FundaciÃƒÂ³n Iberoamericana de Estudios Superiores/Ibero-American Foundation for Higher Studies,0,FUNDIBERO,C05
+FundaciÃƒÂ³n Inciensa,0,FUNIN,C05
+FundaÃƒÂ§ÃƒÂ£o Vale do Rio Doce/Vale do Rio Doce Foundation,0,FUNDVALE,C05
+Renova Foundation/(FundaÃƒÂ§ÃƒÂ£o Renova),0,FUNDRENOVA,C05
+FundaciÃƒÆ’Ã‚Â³n Iberoamericana de Estudios Superiores/Ibero-American Foundation for Higher Studies,0,FUNDIBERO,C05
 Fondation Franco Japonaise Sasakawa,0,FUNDFJ,C05
 Fundacion Caja Navarra/ Caja Navarra Foundation,0,FUNDCAJA,C05
-FundaciÃ³n Starlight/Starlight Foundation,0,FUNDASTAR,C05
+FundaciÃƒÂ³n Starlight/Starlight Foundation,0,FUNDASTAR,C05
 Fundacion Privada Hospital de la Santa Creu I Sant,0,FUNDAPRIVADA,C05
 Fundacion Oleoductos de Colombia,0,FUNDAOLEO,C05
-"Fundacion Alberto Bailleres, A.C./Alberto BaillÃ¨res Foundation",0,FUNDALBERTO,C05
-FundaciÃ³n Abertis/ Albertis Foundation,0,FUNDALBERTIS,C05
-FundaciÃ¯on Bavaria,0,FUNBAVARIA,C05
+"Fundacion Alberto Bailleres, A.C./Alberto BaillÃƒÂ¨res Foundation",0,FUNDALBERTO,C05
+FundaciÃƒÂ³n Abertis/ Albertis Foundation,0,FUNDALBERTIS,C05
+FundaciÃƒÂ¯on Bavaria,0,FUNBAVARIA,C05
 FUNAZUCAR Sector Privado Honduras,0,FUNAZUC,C05
 "FullertonFundManagementCompany,LTD",0,FULLERTON,C06
 Fundacion Conecta Mayor/Elderly connect foundation,0,FUCONMAYOR,C05
@@ -2411,27 +2415,27 @@ Generic foundation donor code,0,FOUNDATION,C05
 FORUM SYD,0,FORUMSYD,C02
 International Forum for Volunteering in Development,0,FORUM,C02
 Foro Mice,0,FORO-MICE,C02
-FÃ¶reningen KonstsamfundetÂ (The Art Foundation Association,0,FORENINGEN,C05
+FÃƒÂ¶reningen KonstsamfundetÃ‚Â (The Art Foundation Association,0,FORENINGEN,C05
 Ford Foundation,0,FORD,C05
 Patrimonio Autonomo FONTUR,0,FONTUR,C02
 Fondation Hans Wilsdorf,0,FondHans,C05
 THE FORCE OF NATURE AID FOUNDATION,0,FON,C05
 Forside | Folketrygdfondet,0,FOLKETRY,C06
 La Fondation OCP/Groupe OCP,0,FOCP,C05
-FoundationÂ â€œFuture of the Carbon Marketâ€ (Stiftung Zukunft des Kohlenstoffmarktes),0,FOCM,C05
+FoundationÃ‚Â Ã¢â‚¬Å“Future of the Carbon MarketÃ¢â‚¬Â (Stiftung Zukunft des Kohlenstoffmarktes),0,FOCM,C05
 "Friends of Birzeit University (Fobzu),",0,FOBZU,C02
 Faroe Islands,1,FO,C01
 Fondation Maison des Sciences de l'Homme/Human Sciences Foundation,o,FMSH,C05
 "Fundacion Mundo Sano, Spain",0,FMS,C05
 Netherlands Development Finance Company (FMO),0,FMO,C03
-Fundacao Mario Leal Ferreira/MÃ¡rio Leal Ferreira Foundation,0,FMLF,C05
+Fundacao Mario Leal Ferreira/MÃƒÂ¡rio Leal Ferreira Foundation,0,FMLF,C05
 Fondation MKS/Fondation Mahmoud Shakarchi Pour Oeuvres Et Bienfaisance/Mahmoud Shakarchi Foundation For Works And Charities,0,FMKS,C05
-Fondo Mixto de PromociÃ³n Turistica D.f. (Fondo Mixto de PromociÃ³n TurÃ­stica CDMX)/Mixed Tourism Promotion Fund),0,FMDP,C05
+Fondo Mixto de PromociÃƒÂ³n Turistica D.f. (Fondo Mixto de PromociÃƒÂ³n TurÃƒÂ­stica CDMX)/Mixed Tourism Promotion Fund),0,FMDP,C05
 Micronesia (Federated States of),1,FM,C01
 Fluor Foundation,0,FLUOR,C05
 Fluart Innovative Vaccines Ltd.,0,FLUART,C06
 Lalla Salma Foundation - Cancer Prevention and Treatment,0,FLSC,C05
-Fundacion LH Europa/FundaciÃ³n LogÃ­stica Humanitaria Europa,0,FLHE,C05
+Fundacion LH Europa/FundaciÃƒÂ³n LogÃƒÂ­stica Humanitaria Europa,0,FLHE,C05
 Flexport Inc.,0,FLEXPORT,C06
 Fleischhacker GmbH & Co,0,FLEISCHHACKER,C06
 FEDERAZIONE LAVORATORI AGRO INDUSTRIA/FEDERATION OF AGRO-INDUSTRY WORKERS(FLAI),0,FLAI,C02
@@ -2443,19 +2447,19 @@ First West Credit Union,0,FIRSTWEST,C06
 Fondation des Immeubles pour les Organisations Internationales (FIPOI)/Buildings Foundation for International Organizations (FIPOI),0,FIPOI,C05
 Foundation for Scientific and Technological Development in Health/FIOTEC,0,FIOTEC,C05
 Foundation for Innovative New Diagnostics,0,FIND,C02
-FIM-FÃ©dÃ©ration Internationale de Motocyclisme/International motorcycle federation,0,FIM10,C02
-Climate Action inÂ Financial Institutions Initiative,0,FII,C03
+FIM-FÃƒÂ©dÃƒÂ©ration Internationale de Motocyclisme/International motorcycle federation,0,FIM10,C02
+Climate Action inÃ‚Â Financial Institutions Initiative,0,FII,C03
 Latin American Federation of the Pharmaceutical Industry (FIFARMA),0,FIFARMA,C02
 FIFA STIFTUNG/FIFA Foundation,0,FIFA,C05
 FASHION IMPACT FUND,0,FIF,C02
 Fukuoka International Exchange Foundation,0,FIEF,C05
 FIDETUR,0,FIDETUR,C05
 FIDELIDADE - COMPANHIA DE SEGUROS S,0,FIDELIDADE,C06
-Fideicomiso fomento y promociÃ³n actividad turistic,0,FIDEI23,C02
+Fideicomiso fomento y promociÃƒÂ³n actividad turistic,0,FIDEI23,C02
 FIDEICOMISO PARA LA COMPETITIVIDAD Y SEGURIDAD CIUDADANA/ The Trust for Competitiveness and Citizen Security,0,FICOSEC,C02
 Ficohsa Foundation,0,FICOHSA,C05
 "FICC/ International Federation of Camping and Caravanning/F.I.C.C. Fed. Int. Camping,Caravanning et Autocaravanning",0,FICC,C02
-FIA-FÃ©dÃ©ration Internationale de l' Automobile/The International Automobile Federation (FIA)/FIA Foundation,0,FIA,C05
+FIA-FÃƒÂ©dÃƒÂ©ration Internationale de l' Automobile/The International Automobile Federation (FIA)/FIA Foundation,0,FIA,C05
 Finland,1,FI,C01
 FOUNDATION HANS WILDORF,0,FHW12,C05
 Fachhochschule Westkuste (FHW)/West Coast University of Applied Sciences,0,FHW,C07
@@ -2465,19 +2469,19 @@ Family Health International (FHI),0,FHI,C02
 Fred Hollows Foundation (FHF),0,FHF,C05
 FUNDACION HENRY DUNANT AMERICA LATINA/HENRY DUNANT LATIN AMERICA FOUNDATION,0,FHDAL,C05
 Fondation d'Harcourt,0,FH11,C05
-FundaciÃ¯Â¿Â½n Gonzalo RÃ¯Â¿Â½o Arronte,0,FGRA,C05
+FundaciÃƒÂ¯Ã‚Â¿Ã‚Â½n Gonzalo RÃƒÂ¯Ã‚Â¿Ã‚Â½o Arronte,0,FGRA,C05
 FUNDACION. GRUPOENERGIA BTA.,0,FGEB,C05
 "ATICO Fakherldin Group Companies,",0,FGC,C02
 FORUM FOR YOUNG INTERNATIONALISTS,0,FFYI,C02
 The Freedom Fund,0,FFUND,C02
 Federal Forum for Children and Youth Travel eV/BundesForum Kinder- und Jugendreisen (BundesForum Kinder- und Jugendreisen e.V.),0,FFCYT,C02
-FundaciÃ³n Exportar/The Export.Ar Foundation,0,FEXPORTAR,C03
+FundaciÃƒÂ³n Exportar/The Export.Ar Foundation,0,FEXPORTAR,C03
 Friedrich-Ebert-Stiftung - Geneva Office,0,FES,C05
 Ferring Pharmaceuticals Inc,0,FERRING,C06
 Ferrero International SpA/ Ferrero Group,0,FERRERO,C06
 Fundacion Espacio Publico/Public Space Foundation,0,FEP,C05
-FENALCO - FederaciÃ³n Nacional de Comerciantes Empresarios/The National Federation of Merchants,0,FENALCO,C02
-FEDERACIÃ“N EMPRESARIA HOTELERA GASTRONÃ“MICA DE LA REPÃšBLICA ARGENTINAÂ (FEHGRA)/Federation of the hotel gastronomic business of the Argentine Republic (FEHGRA),0,FEHGRA,C02
+FENALCO - FederaciÃƒÂ³n Nacional de Comerciantes Empresarios/The National Federation of Merchants,0,FENALCO,C02
+FEDERACIÃƒâ€œN EMPRESARIA HOTELERA GASTRONÃƒâ€œMICA DE LA REPÃƒÅ¡BLICA ARGENTINAÃ‚Â (FEHGRA)/Federation of the hotel gastronomic business of the Argentine Republic (FEHGRA),0,FEHGRA,C02
 FEED Foundation,0,FEEDFO,C05
 Foundation for Environmental Education (FEE),0,FEE11,C05
 Espace Fondation EDF,0,FEDF,C05
@@ -2485,25 +2489,25 @@ Federation of Tourism Enterprises Chile / Fedetur (Federacion de Empresas de Tur
 Fundacao Euclides da CUNHA,0,FEDC,C05
 Stiftelsen Future Earth Sverig,0,F-EARTH,C05
 Fairleigh Dickinson University,0,FDU,C07
-"FundaciÃ¯Â¿Â½n UnibÃ¯Â¿Â½n CI UnibÃ¯Â¿Â½n SA, COL",0,FDNUNIBAN,C05
-FUNDACIÃ¯Â¿Â½N SANTO DOMINGO,0,FDNSANDOM,C05
-FundaciÃ¯on de Beneficencia Colunga Chile,0,FDNCOLUNGA,C05
+"FundaciÃƒÂ¯Ã‚Â¿Ã‚Â½n UnibÃƒÂ¯Ã‚Â¿Ã‚Â½n CI UnibÃƒÂ¯Ã‚Â¿Ã‚Â½n SA, COL",0,FDNUNIBAN,C05
+FUNDACIÃƒÂ¯Ã‚Â¿Ã‚Â½N SANTO DOMINGO,0,FDNSANDOM,C05
+FundaciÃƒÂ¯on de Beneficencia Colunga Chile,0,FDNCOLUNGA,C05
 Fondation de Luxembourg,0,FDLUX,C05
-Fondation d`Â’entreprise Louis Dreyfus/Louis Dreyfus Foundation,0,FDLD,C05
+Fondation d`Ã‚â€™entreprise Louis Dreyfus/Louis Dreyfus Foundation,0,FDLD,C05
 FOUNDATION FOR A DRUG-FREE WORLD,0,FDFW,C05
-Fond de Dotation des FrÃ¨res de Plymouth (FRANCE),0,FDFP,C05
+Fond de Dotation des FrÃƒÂ¨res de Plymouth (FRANCE),0,FDFP,C05
 Fondation de France,0,FDF,C05
 Finance Centre for South South Cooperation,0,FCSSC,C04E
 Forest Carbon Partnership Facility,0,FCPF,C04B
 Fondazione Cav. Lav. Carlo Pesenti,0,FCLP,C05
-Climent Guitart foundation/FundaciÃ³ Climent Guitart,0,FCG,C05
+Climent Guitart foundation/FundaciÃƒÂ³ Climent Guitart,0,FCG,C05
 FARM CREDIT CANADA,0,FCC,C06
 Fundacion Favorita,0,FAVORITA,C02
 La Fabrique d'Avenir,0,FAVENIR,C02
 Federation of Austrian Industries,0,FAUI,C02
 Foundation for Advanced Studies on International Development,0,FASID,C05
 Farmer's Market Association,0,FARMER,C02
-FundaÃ§Ã£o de Amparo Ã  Pesquisa do Estado de SÃ£o Paulo â€“ FAPESP,0,FAPESP,C05
+FundaÃƒÂ§ÃƒÂ£o de Amparo ÃƒÂ  Pesquisa do Estado de SÃƒÂ£o Paulo Ã¢â‚¬â€œ FAPESP,0,FAPESP,C05
 Food and Agriculture Organization,0,FAO,C04C
 "Food, Agriculture and Natural Resources Policy Analysis Network (FANRPAN)",0,FANRPAN,C04E
 Famine Relief Fund,0,FAMRF,C05
@@ -2520,7 +2524,7 @@ FactSet Research Systems Inc.,0,FACTSET,C06
 EY Foundation Ente Filantropico del Terzo Settore,0,EYFOUND,C05
 Eyelliance,0,EYELLIANCE,C03
 EXL Service,0,EXL,C06
-EXCELTUR ALLIANCE FOR TOURIST EXCELLENCE ASSOCIATION/EXCELTUR-AsociaciÃ³n para la Excelencia TurÃ­stica,0,EXCELTUR,C02
+EXCELTUR ALLIANCE FOR TOURIST EXCELLENCE ASSOCIATION/EXCELTUR-AsociaciÃƒÂ³n para la Excelencia TurÃƒÂ­stica,0,EXCELTUR,C02
 EAST WEST MANAGEMENT INSTITUTE INC,0,EWMI,C07
 eWater Limited,0,EWATER,C02
 EVEREST RE GROUP LTD,0,EVERESTRE,C06
@@ -2529,7 +2533,7 @@ The European Chamber of Commerce in Myanmar Incorporated,0,EUROCHAM,C02
 AGREEMENT ON THE CONSERVATION OF BATS IN EUROPE,0,EUROBATS,C04E
 EURID VZW/European Registry for Internet Domains,0,EURID,C02
 European Investment Bank,0,EURIB,C04A
-Eurecat - Centro TecnolÃ³gico de CataluÃ±a/FundaciÃ³ Eurecat,0,EURECAT,C05
+Eurecat - Centro TecnolÃƒÂ³gico de CataluÃƒÂ±a/FundaciÃƒÂ³ Eurecat,0,EURECAT,C05
 European Academy (EURAC),0,EURAC,C07
 European Public Health Association,0,EUPHA,C02
 European Organisation for the Exploitation of Meteorological Satellites,0,EUMETSAT,C08B
@@ -2544,12 +2548,12 @@ CHE-Swiss Federal Institute of Technology,0,ETH-ZURICH,C07
 Ethias SA,0,ETHIAS,C06
 European Travel Commission (ETC),0,ETC,C02
 Ethiopia,1,ET,C01
-IUP-ESTHUA-Ã‰tudes Sup.de Tourisme et d'HÃ´tellerie/ HIGHER STUDIES IN TOURISM AND HOSPITALITY (IUP-ESTHUA),0,ESTHUA,C07
+IUP-ESTHUA-Ãƒâ€°tudes Sup.de Tourisme et d'HÃƒÂ´tellerie/ HIGHER STUDIES IN TOURISM AND HOSPITALITY (IUP-ESTHUA),0,ESTHUA,C07
 European Society for Medical Oncology,0,ESMO,C02
 Escuela Superior de Hoteleria e Turismo do Estoril/The Estoril Hotel and Tourism School,0,ESHTE,C07
-School of Hotel & Restaurant Management (Ã‰cole supÃ©rieure d'hÃ´tellerie et restauration d'Alger),0,ESHRA,C07
+School of Hotel & Restaurant Management (Ãƒâ€°cole supÃƒÂ©rieure d'hÃƒÂ´tellerie et restauration d'Alger),0,ESHRA,C07
 "European Society for Clinical and Economic Aspects of Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (ESCEO)",0,ESCEO,C06
-Rennes School of Business/ Ã‰cole SupÃ©rieure de Commerce de Rennes,0,ESC11,C07
+Rennes School of Business/ Ãƒâ€°cole SupÃƒÂ©rieure de Commerce de Rennes,0,ESC11,C07
 European Space Agency,0,ESA,C04E
 Spain,1,ES,C01
 ERSTE Foundation (Erste Stiftung),0,ERSTE,C05
@@ -2584,14 +2588,14 @@ European Molecular Biology Organisation - EMBO,0,EMBO,C07
 ELS FAB Limited,0,ELSFAB,C06
 Elsevier Foundation/ELSEVIER SCIENCE LTD,0,ELSEVIER,C05
 Elrha - Global Charity,0,ELR,C02
-"Sincrotrone Trieste SocietÃ  Consortile per Azioni, Italy",0,ELETTRA,C06
-AsociaciÃ³n Cultural Peruano BritÃ¡nica/British Peruvian Cultural Association,0,EL-BRITANICO,C02
+"Sincrotrone Trieste SocietÃƒÂ  Consortile per Azioni, Italy",0,ELETTRA,C06
+AsociaciÃƒÂ³n Cultural Peruano BritÃƒÂ¡nica/British Peruvian Cultural Association,0,EL-BRITANICO,C02
 ENVIRONMENTAL JUSTICE FOUNDATION,0,EJFOUND,C05
 Elton John AIDS Foundation,0,EJAF,C05
 EIT Climate-Knowledge and Innovation Community (KIC),0,EIT-KIC,C03
 Eisaku Sato Memorial Foundation,0,EISAKU,C05
 "Eisai Co., Ltd.",0,EISAI,C06
-The Einar BelvÃ¯Â¿Â½n Foundation,0,EINARFOUND,C05
+The Einar BelvÃƒÂ¯Ã‚Â¿Ã‚Â½n Foundation,0,EINARFOUND,C05
 EIF Enhanced Integrated Framework,0,EIF,C04E
 ENVIRONMENTAL INVESTIGATION AGENCY,0,EIA,C02
 European Historic Thermal Towns Association EHTTA,0,EHTTA,C02
@@ -2613,7 +2617,7 @@ European and Developing Countries Clinical Trials Partnership,0,EDCTP,C04E
 Eurasian Development Bank,0,EDB,C04A
 Eczacibasi Holding,0,Eczacibasi,C06
 Education Cannot Wait,0,ECW,C04B
-Alianza para EmprendimientoÂ e InnovaciÃ³n delÂ EcuadorÂ (AEI)/The Alliance for Entrepreneurship and Innovation of Ecuador (AEI),0,ECU-AEI,C03
+Alianza para EmprendimientoÃ‚Â e InnovaciÃƒÂ³n delÃ‚Â EcuadorÃ‚Â (AEI)/The Alliance for Entrepreneurship and Innovation of Ecuador (AEI),0,ECU-AEI,C03
 European Centre for Social Welfare Policy and Research,0,ECSWPR,C04E
 Economic Community of West African States,0,ECOWAS,C04E
 Ecorys,0,ECORYS,C06
@@ -2626,7 +2630,7 @@ European Chemical Society,0,ECHS,C02
 European Climate Foundation,0,ECF11,C05
 Eleanor Crook Foundation,0,ECF,C05
 ECEAP Estonian Center for Eastern Partnership,0,ECEAP,C04E
-Agencia de PromociÃ¯on EconÃ¯omica ConQuito,0,ECCONQUITO,C02
+Agencia de PromociÃƒÂ¯on EconÃƒÂ¯omica ConQuito,0,ECCONQUITO,C02
 European Criminal Bar Association (Amsterdam),0,ECBA,C02
 United Nations Economic Commission for Africa,0,ECA,C04C
 Ecuador,1,EC,C01
@@ -2642,9 +2646,9 @@ Advancing Decent Work in Bangladesh,0,DWCP,C04B
 Dunami Inc.,0,DUNAMI,C06
 Dubai Cares,0,DUBAICARES,C05
 DOGS TRUST WORLDWIDE FOUNDATION BOSNIA,0,DTWF,C02
-Duy TÃ¢n University,0,DTU,C07
+Duy TÃƒÂ¢n University,0,DTU,C07
 DSM-FIRMENICH Corporation/Royal DSM,0,DSM,C06
-AssociaÃ§ao Dark Sky/ DarkSky International,0,DSI22,C02
+AssociaÃƒÂ§ao Dark Sky/ DarkSky International,0,DSI22,C02
 DALLAS SAFARI CLUB FOUNDATION INC,0,DSCFOUND,C05
 Drosos Foundation,0,DROSOS,C05
 Direct Relief Foundation/Direct Relief International,0,DRI,C02
@@ -2665,9 +2669,9 @@ Christian Dior Couture,0,DIOR,C06
 Digital Promise Global,0,DIGI_PROM,C02
 Fondazione Dieci Trust Onlus,0,DIECI-ONLUS,C05
 Fondation Didier et Martine Primat,0,DIDIERFOUND,C05
-WorldÂ Diakonia/Korean Diakonia,0,DIAKONIA,C02
+WorldÃ‚Â Diakonia/Korean Diakonia,0,DIAKONIA,C02
 Delivery Hero SE,0,DHERO,C06
-The Baden-WÃ¼rttemberg Cooperative State University (DHBW)/Duale Hochschule Baden-WÃ¼rttemberg,0,DHBW,C07
+The Baden-WÃƒÂ¼rttemberg Cooperative State University (DHBW)/Duale Hochschule Baden-WÃƒÂ¼rttemberg,0,DHBW,C07
 "3Degrees Group, Inc.",0,DGI,C06
 German Research Foundation (Deutsche Forschungsgemeinschaft),0,DFG,C07
 University of Deusto (Universidad de Deusto)/UNIVERSIDAD DE LA IGLESIA DE DEUSTO ENTIDAD ,0,DEUSTO,C07
@@ -2709,7 +2713,7 @@ ClimateWorks Foundation,0,CWF,C05
 China Women's Development Foundation,0,CWDF,C05
 Children With Cancer UK,0,CWCUKD,C05
 CANADIAN WOOD COUNCIL,0,CWC,C02
-CuraÃ§ao,1,CW,C01
+CuraÃƒÂ§ao,1,CW,C01
 Cabo Verde,1,CV,C01
 Curtin University,0,CURTINU,C07
 Univerzita Karlova/Charles University,0,CUNI,C07
@@ -2717,8 +2721,8 @@ Columbia University,0,CUI,C07
 The Chinese University of Hong Kong (CUHK),0,CUHK,C07
 "Universidad de Guadalajara, CUCSUR/South Coast University Center",0,CUCSUR,C07
 Cuba,1,CU,C01
-ConfederaÃ§Ã£o do Turismo de Portugal/Confederation of Tourism of Portugal,0,CTP,C02
-Confederation of Mexican Workers (ConfederaciÃ³n de Trabajadores de MÃ©xico),0,CTM,C02
+ConfederaÃƒÂ§ÃƒÂ£o do Turismo de Portugal/Confederation of Tourism of Portugal,0,CTP,C02
+Confederation of Mexican Workers (ConfederaciÃƒÂ³n de Trabajadores de MÃƒÂ©xico),0,CTM,C02
 INTERPROFESSIONAL TECHNICAL CENTRE FOR FRUITS AND VEGETABLE,0,CTIFL,C07
 Comprehensive Nuclear Test Ban Treaty Organization,0,CTBTO,C04C
 Colorado State University,0,CSU,C07
@@ -2732,12 +2736,12 @@ The Costa Rica United States for Cooperation Foundation,0,CRUSA,C05
 Cancer Research UK,0,CRUK,C05
 Catholic Relief Services,0,CRS,C02
 "CROP TRUST/Global Crop Diversity Trust,",0,CROP,C02
-French Red Cross (Croix-Rouge FranÃ§aise),0,CRF,C02
-Centre de Recherche et dâ€™ Education pour le DÃ©veloppement (CREPD),0,CREPD,C02
+French Red Cross (Croix-Rouge FranÃƒÂ§aise),0,CRF,C02
+Centre de Recherche et dÃ¢â‚¬â„¢ Education pour le DÃƒÂ©veloppement (CREPD),0,CREPD,C02
 Cancer Registry Norway (NORWAY),0,CREGISTRY,C05
 Comite Regional du Tourisme de Nouvelle-Aquitaine,0,CRDT,C06
 The Civilian Research and Development Foundation/CRDF Global,0,CRDF,C02
-"Centre de Recherche en CancÃ©rologie de Lyon (FRANCE),/ Cancer Research Center of Lyon",0,CRCL,C07
+"Centre de Recherche en CancÃƒÂ©rologie de Lyon (FRANCE),/ Cancer Research Center of Lyon",0,CRCL,C07
 Chinese Red Cross Foundation,0,CRCF,C05
 Costa Rica,1,CR,C01
 China Population Welfare Foundation,0,CPWF,C05
@@ -2752,8 +2756,8 @@ Consejo Profesional de Ciencias Economicas de la Provincia de Neuquen/Profession
 Center for Health Policies and Studies (PAS Center),0,CPAS,C02
 COWI A/S,0,COWI,C06
 Coventry University,0,COVENTRY,C07
-COTELCO-AsociaciÃ³n Hotelera de Colombia/ HOTEL AND TOURIST ASSOCIATION OF COLOMBIA (COTELCO),0,COTELCO,C02
-COSPE Onlus â€“ Cooperazione per lo Sviluppo dei Paesi Emergenti/Cooperation for the Development of Emerging Countries,0,COSPE,C02
+COTELCO-AsociaciÃƒÂ³n Hotelera de Colombia/ HOTEL AND TOURIST ASSOCIATION OF COLOMBIA (COTELCO),0,COTELCO,C02
+COSPE Onlus Ã¢â‚¬â€œ Cooperazione per lo Sviluppo dei Paesi Emergenti/Cooperation for the Development of Emerging Countries,0,COSPE,C02
 "Corredor Logistico de Nacala, SA/Integrated Logistic Corridor from Nacala",0,CORREDOR,C06
 CRN - Cornell University,0,CORNELL,C07
 CORDAID/Catholic Organisation for Relief and Development Aid,0,CORDAID,C02
@@ -2762,19 +2766,19 @@ COOP PANK AS,0,COOPPAS,C06
 THE COOPERATORS GROUP LIMITED,0,COOPERATORS,C06
 "Convergence Blended Finance, Inc",0,CONVERGENCE,C06
 Conservation X Labs,0,CONSERVATIONX,C06
-"PAN AMERICAN CONFEDERATION OF SCHOOLS, HOTELS, GASTRONOMY AND TOURISM/ConfederaciÃ³n Panamericana de Escuelas de HotelerÃ­a, GastronomÃ­a y Turismo",0,CONPEHT,C07
+"PAN AMERICAN CONFEDERATION OF SCHOOLS, HOTELS, GASTRONOMY AND TOURISM/ConfederaciÃƒÂ³n Panamericana de Escuelas de HotelerÃƒÂ­a, GastronomÃƒÂ­a y Turismo",0,CONPEHT,C07
 Conflux Center,0,CONFLUX,C02
-"Confcommercio-Imprese per lâ€™Italia/Italian General Confederation of Enterprises,
+"Confcommercio-Imprese per lÃ¢â‚¬â„¢Italia/Italian General Confederation of Enterprises,
 Professions and Self-Employment",0,CONFCOMMERCIO,C02
 Concern Worldwide,0,CONCERN,C02
-"TheÂ Confederation of National Chambers of Commerce, Services and Tourism of the United Mexican StatesÂ (Â CONCANACO SERVYTUR MÃ©xico)/La ConfederaciÃ³n de CÃ¡maras Nacionales de Comercio, Servicios y Turismo de los Estados Unidos Mexicanos",0,CONCANACO,C02
-Colegio de EducaciÃ³n Profesional TÃ©cnica del Estado de Tamaulipas/College of Technical Professional Education of Tamaulipas (CONALEP),0,CONALEP,C07
+"TheÃ‚Â Confederation of National Chambers of Commerce, Services and Tourism of the United Mexican StatesÃ‚Â (Ã‚Â CONCANACO SERVYTUR MÃƒÂ©xico)/La ConfederaciÃƒÂ³n de CÃƒÂ¡maras Nacionales de Comercio, Servicios y Turismo de los Estados Unidos Mexicanos",0,CONCANACO,C02
+Colegio de EducaciÃƒÂ³n Profesional TÃƒÂ©cnica del Estado de Tamaulipas/College of Technical Professional Education of Tamaulipas (CONALEP),0,CONALEP,C07
 Combat Modern Slavery,0,COMS,C08B
 Comic Relief,0,COMRE,C02
-Roman Catholic Archdiocese of Santiago de Compostela/ArchidiÃ³cesis de Santiago de Compostela,0,COMPOSTELA,C06
+Roman Catholic Archdiocese of Santiago de Compostela/ArchidiÃƒÂ³cesis de Santiago de Compostela,0,COMPOSTELA,C06
 Foundation for the Global Compact,0,COMPACT,C05
 The Commonwealth,0,COMMONW,C04E
-Commission des ForÃªts d'Afrique Centrale (COMIFAC)/Central African Forest Commission,0,COMIFAC,C04E
+Commission des ForÃƒÂªts d'Afrique Centrale (COMIFAC)/Central African Forest Commission,0,COMIFAC,C04E
 Common Market for Eastern and Southern Africa (COMESA),0,COMESA,C04E
 El Fondo de Patrimonio Natural/The Natural Heritage Fund,0,COL-FPN,C02
 Europe Africa Caribbean Pacific Liaison Committee/COLEACP,0,COLEACP,C02
@@ -2782,18 +2786,18 @@ FUNDACION CIUDAD DEL SABER/City of Knowledge Foundation,0,COKFOUND,C07
 Coca Cola Company,0,COKE,C05
 Council of Europe Development Bank,0,COEBANK,C04A
 COUNCIL OF EUROPE,0,COE,C04E
-Caja de CompensaciÃ¯Â¿Â½n Familiar del Valle del Cauca/Family Compensation Fund of Valle del Cauca Comfamiliar Andi â€“ COMFANDI,0,COCOMFANDI,C02
+Caja de CompensaciÃƒÂ¯Ã‚Â¿Ã‚Â½n Familiar del Valle del Cauca/Family Compensation Fund of Valle del Cauca Comfamiliar Andi Ã¢â‚¬â€œ COMFANDI,0,COCOMFANDI,C02
 CHILDREN OF ARMENIA FUND,0,COAF,C02
 Colombia,1,CO,C01
-CNR Papillomavirus du CHRU de BesanÃ§on â€“ CNR,0,CNRPFR,C07
+CNR Papillomavirus du CHRU de BesanÃƒÂ§on Ã¢â‚¬â€œ CNR,0,CNRPFR,C07
 "Istituto per lo Studio dei Material Nanostrutturali (CNR-ISMN), Italy",0,CNR-ISMN,C07
 "lstituto Officina dei Materiali (CNR-IOM), Trieste, ITALY",0,CNR-IOM,C07
 "Consiglio Nazionale delle Ricerche (CNR) -Istituto Officina dei Materiali (IOM), Trieste - ITALY/National Research Council (CNR)",0,CNR,C07
 CNP ASSURANCES,0,CNPA,C06
 CONFED NACIONAL INDUSTRIA/ The National Industry Confederation (CNI),0,CNI,C02
 CNHI INTERNATIONAL SA,0,CNHI,C06
-NON-GOVERNMENTAL ORGANIZATIONS IN CONSULTATIVE RELATIONSHIP WITH THE UNITED NATIONSÂ (CONGO),0,CNG22,C02
-"AÂ ConfederaÃ§Ã£o NacionalÂ do ComÃ©rcio deÂ Bens,Â ServiÃ§os e TurismoÂ (CNC)/NATIONAL CONFEDERATION OF TRADE IN GOODS, SERVICES AND TOURISM (CNC)",0,CNC11,C02
+NON-GOVERNMENTAL ORGANIZATIONS IN CONSULTATIVE RELATIONSHIP WITH THE UNITED NATIONSÃ‚Â (CONGO),0,CNG22,C02
+"AÃ‚Â ConfederaÃƒÂ§ÃƒÂ£o NacionalÃ‚Â do ComÃƒÂ©rcio deÃ‚Â Bens,Ã‚Â ServiÃƒÂ§os e TurismoÃ‚Â (CNC)/NATIONAL CONFEDERATION OF TRADE IN GOODS, SERVICES AND TOURISM (CNC)",0,CNC11,C02
 Changchun Institute Of Biological Products Co. Ltd. Cnbg/Chengdu Institute of Biological Products / China National Biotec Group,0,CNBG,C06
 China,1,CN,C01
 Children & Mother Welfare Society,0,CMWS,C02
@@ -2824,21 +2828,21 @@ Citrix Systems Inc,0,CITRIX,C06
 Citicorp Services India Private Limited,0,CITICORP,C06
 CITI FOUNDATION,0,CITI,C05
 CITE (the Convention on International Trade in Endangered Species of Wild Fauna and Flora),0,CITES,C04E
-Â International Transportation Industry ChamberÂ (CIT).,0,CIT,C02
+Ã‚Â International Transportation Industry ChamberÃ‚Â (CIT).,0,CIT,C02
 CISET-Centro Internazionale di Studi Sull'Economia/INTERNATIONAL CENTER FOR STUDIES ON TOURIST ECONOMY,0,CISET,C07
 "Cisco Systems, Inc/ Cisco Foundation",0,CISCO,C05
 Center for International Reproductive Health Training,0,CIRHT,C07
-International Maize and Wheat Improvement Center (CIMMYT) /(Centro International de Mejoramiento de MaÃ­z y Trigo (CIMMYT)),0,CIMMYT,C07
+International Maize and Wheat Improvement Center (CIMMYT) /(Centro International de Mejoramiento de MaÃƒÂ­z y Trigo (CIMMYT)),0,CIMMYT,C07
 CIMA Research Foundation,0,CIMA,C05
-Permanent Interstate Committee for drought control in the Sahel (ComitÃ© inter-Ã‰tat de lutte contre la sÃ©cheresse au Sahel,0,CILSS,C04E
+Permanent Interstate Committee for drought control in the Sahel (ComitÃƒÂ© inter-Ãƒâ€°tat de lutte contre la sÃƒÂ©cheresse au Sahel,0,CILSS,C04E
 Center for International Legal Cooperation (CILC),0,CILC,C02
 Centre for Impact Investing and Practices,0,CIIP,C02
 Center for International Forestry Research - CIFOR,0,CIFOR,C07
 Children's Investment Fund Foundation: CIFF,0,CIFF,C05
-Centre international de formation des autoritÃ©s et leader (CIFAL)/International Training Centre for Authorities and Leaders,0,CIFAL,C07
+Centre international de formation des autoritÃƒÂ©s et leader (CIFAL)/International Training Centre for Authorities and Leaders,0,CIFAL,C07
 China International Education Institute,0,CIEI,C07
-FundaciÃ³n Cideal de cooperaciÃ³n e investigaciÃ³n/CIDEAL Foundation,0,CIDEAL,C06
-CÃ´te d'Ivoire,1,CI,C01
+FundaciÃƒÂ³n Cideal de cooperaciÃƒÂ³n e investigaciÃƒÂ³n/CIDEAL Foundation,0,CIDEAL,C06
+CÃƒÂ´te d'Ivoire,1,CI,C01
 Church of Cyprus,0,CHURCHCYP,C02
 Switzerland for UNHCR,0,CH-UNHCR,C02
 "Chugai Pharmaceutical Co., Ltd.",0,CHUGAI,C06
@@ -2877,32 +2881,32 @@ COVID-19 Emergency Unemployment and Employment Stabilization,0,CEUE,C08B
 "Estudis d'Hoteleria i Turisme (CETT) S.A./School of Tourism,Hospitality and Gastronomy",0,CETT,C07
 European Organization for Nuclear Research,0,CERN,C04E
 FUNDACION CERMI MUJERES/CERMI MUJERES FOUNDATION,0,CERMI,C05
-Centre RÃ©gional de Formation en Entretien Routier PAIF,0,CERFER,C03
+Centre RÃƒÂ©gional de Formation en Entretien Routier PAIF,0,CERFER,C03
 "CERES INC,",0,CERES,C02
 China Environmental Protection Foundation,0,CEPF,C05
 CHURCH OF ENGLAND PENSIONS BOARD,0,CEPB,C02
-The Spanish Confederation of Business Organizations (CEOE)/ConfederaciÃ³n EspaÃ±ola de Organizaciones Empresariales - CEOE,0,CEOE,C02
-CENTRO ESPAÃ‘OL DE NUEVAS PROFESIONES (CENP)/SPANISH CENTER FOR NEW PROFESSIONS,0,CENP,C07
-CENFOTUR-Centro de FormaciÃ³n en Turismo/Cenfotur - Tourism Training Center,0,CENFOTUR,C07
+The Spanish Confederation of Business Organizations (CEOE)/ConfederaciÃƒÂ³n EspaÃƒÂ±ola de Organizaciones Empresariales - CEOE,0,CEOE,C02
+CENTRO ESPAÃƒâ€˜OL DE NUEVAS PROFESIONES (CENP)/SPANISH CENTER FOR NEW PROFESSIONS,0,CENP,C07
+CENFOTUR-Centro de FormaciÃƒÂ³n en Turismo/Cenfotur - Tourism Training Center,0,CENFOTUR,C07
 CENTRO DE ESTUDIOS DE JUSTICIA DE LAS AM,0,CEJAJSCA,C04E
 Central European Initiative,0,CEI,C04E
 "CENTRE FOR ENVIRONMENT, FISHERIES AND AQUACULTURE SCIENCE",0,CEFAS,C07
 The Clarke Education Foundation,0,CEF,C05
-Consejo Empresario de Entre Rios - ARG/Business Council of Entre RÃ­os - ARG,0,CEER-ARG,C02
+Consejo Empresario de Entre Rios - ARG/Business Council of Entre RÃƒÂ­os - ARG,0,CEER-ARG,C02
 Economic Community of Central African States,0,CEEAC,C04E
 COL-FUNDACION SOCIAL CEA,0,CEAONG,C05
 Coalition for Disaster Resilient Infrastructure,0,CDRI,C03
 CDP WORLDWIDE,0,CDP,C02
 CLUB DIPLOMATIQUE DE GENEVE/GENEVA DIPLOMATIC CLUB,0,CDIPLO,C02
 CERCLE DIPLOMATIQUE DE GENEVE,0,CDGE,C02
-The Council of Grands Crus ClassÃ©s in 1855/Conseil des Grands Crus ClassÃ©s en 1855,0,CDGC,C02
+The Council of Grands Crus ClassÃƒÂ©s in 1855/Conseil des Grands Crus ClassÃƒÂ©s en 1855,0,CDGC,C02
 CDC Foundation,0,CDCFDN,C05
 Caribbean Development Bank,0,CDB,C04A
 Center for Disease Analysis Foundation (CDAF),0,CDAF,C05
 Democratic Republic of the Congo,1,CD,C01
-Crohnâ€™s and Colitis UK,0,CCUK,C05
+CrohnÃ¢â‚¬â„¢s and Colitis UK,0,CCUK,C05
 COAST CAPITAL SAVINGS FEDERAL CREDIT UNION,0,CCSFC,C02
-DOM-CÃ¡mara de Comercio de Santo Domingo/Chamber of Commerce and Production of Santo Domingo,0,CCPSD,C02
+DOM-CÃƒÂ¡mara de Comercio de Santo Domingo/Chamber of Commerce and Production of Santo Domingo,0,CCPSD,C02
 Cancer Council New South Wales (AUSTRALIA)/Cancer Council Australia,0,CCOUNCIL,C05
 Consorzio Communitas/COMMUNITAS CONSORTIUM,0,CCOMM,C02
 Childhood Cancer International,0,CCI,C02
@@ -2941,7 +2945,7 @@ Capilano University,0,CAPILANOU,C07
 Cannon-Brookes Foundation,0,CANNON,C05
 Cancer Council Victoria (AUSTRALIA),0,CANCERVIC,C05
 CANADEM,0,CANADEM,C02
-"CÃ¡mara Oficial de Comercio, Industria y NavegaciÃ³n de la Provincia de MÃ¡laga/Malaga Chamber of Commerce",0,CAMARA,C06
+"CÃƒÂ¡mara Oficial de Comercio, Industria y NavegaciÃƒÂ³n de la Provincia de MÃƒÂ¡laga/Malaga Chamber of Commerce",0,CAMARA,C06
 CAMARA COLOMBIANA DE LA CONSTRUCCION/Colombian Chamber of Construction,0,CAMACOL,C02
 LA CAIXA FOUNDATION/ FUNDACION LA CAXIA/La Caixa Banking Foundation,0,CAIXAG,C05
 CAIXA ENGINYERS VIDA-CAJA INGENIERO/Caixa d'Enginyers - Barcelona - Via Laietana,0,CAIXA,C02
@@ -2949,7 +2953,7 @@ Cainiao Smart Logistics Network (Hong Kong) Limited,0,CAINIAO,C06
 THE CLEAN AIR INITIATIVE FOR ASIAN CITIES (CAI-ASIA),0,CAI-ASIA,C02
 Creative Associates International,0,CAI,C02
 The Canadian Association of Former International Civil Servants,0,CAFICS,C02
-CORPORACION ANDINA DE FOMENTO - CAF/Development Bank of Latin America/-Banco de Desarrollo de AmÃ©rica Latina,0,CAF10,C04A
+CORPORACION ANDINA DE FOMENTO - CAF/Development Bank of Latin America/-Banco de Desarrollo de AmÃƒÂ©rica Latina,0,CAF10,C04A
 Charities Aid Foundation,0,CAF,C05
 Charities Aid Foundation India,0,CAF23,C05
 Cadila Healthcare Ltd. (R&D Center),0,CADILAH,C06
@@ -3020,7 +3024,7 @@ Blue Carbon Society Association,0,BLUECARSOC,C02
 Bloomberg Philanthropies (Bloomberg Family Foundation),0,BLOOMBERG,C05
 Block Inc.,0,BLOCK,C06
 BLG Logistics Group,0,BLG,C06
-Saint BarthÃ©lemy,1,BL,C01
+Saint BarthÃƒÂ©lemy,1,BL,C01
 Beijing Jixing Education Technology Co Ltd,0,BJET,C06
 Benin,1,BJ,C01
 Borlaug Institute for South Asia (BISA),0,BISA,C07
@@ -3059,13 +3063,13 @@ BEIJING ENTREPRENEURS ENVIRONMENTAL,0,BEE,C02
 BEAZLEY GROUP PLC,0,BEAZLEY,C06
 Belgium,1,BE,C01
 BANQUE DEGROOF PETERCAM,0,BDP,C06
-BDO Foundation/BDOÂ Unibank,0,BDO,C05
+BDO Foundation/BDOÃ‚Â Unibank,0,BDO,C05
 Borrow Dental Milk Foundation,0,BDF,C05
 Bangladesh,1,BD,C01
-"Banco Comercial PortuguÃªs, SAÂ (Â BCPÂ )/Â Millennium BCP/Portuguese Commercial Bank",0,BCP,C06
+"Banco Comercial PortuguÃƒÂªs, SAÃ‚Â (Ã‚Â BCPÃ‚Â )/Ã‚Â Millennium BCP/Portuguese Commercial Bank",0,BCP,C06
 The British Council,0,BCOUNCIL,C02
 Baylor College of Medicine (USA),0,BCM,C07
-Banco Centroamericano de IntegraciÃ³n EconÃ³mica - SP,,BCIE,
+Banco Centroamericano de IntegraciÃƒÂ³n EconÃƒÂ³mica - SP,,BCIE,
 BANCO DE CREDITO E INVERSIONES/Credit and Investment Bank,0,BCI,C06
 Better Cotton Growth and Innovation Fund,0,BC-GIF,C02
 Boston Consulting Group & Cie SARL (BCG),0,BCG,C06
@@ -3088,7 +3092,7 @@ BASF Foundation/BASF STIFTUNG,0,BASFOUND,C05
 BASF SE,0,BASF,C06
 Foundation FC Barcelona,0,BARCAFOUND,C05
 Bophana Audiovisual Resource Center,0,BARC,C02
-FundaciÃ³n BANORTE,0,BANORTE,C05
+FundaciÃƒÂ³n BANORTE,0,BANORTE,C05
 BANESCO PANAMA SA,0,BANESCO,C05
 Band Aid,0,BAND,C05
 BANCO COMERCIAL AV VILLAS S A,0,BANCOVIL,C06
@@ -3106,13 +3110,13 @@ Arab Bank for Economic Development in Africa,0,BADEA,C04A
 Bank of America/Bank of America Charitable Foundation,0,BACF,C05
 BAC CREDOMATIC,0,BACC,C02
 Bosnia and Herzegovina,1,BA,C01
-OBSERVATÃ“RIO DO TURISMO DOS AÃ‡ORES/AZORES TOURISM OBSERVATORY,0,AZORES,C02
+OBSERVATÃƒâ€œRIO DO TURISMO DOS AÃƒâ€¡ORES/AZORES TOURISM OBSERVATORY,0,AZORES,C02
 AZADEA GROUP,0,AZADEA,C06
 Azerbaijan,1,AZ,C01
 Arab Youth Center,0,AYC,C07
 La Fondation Axian/Axian Group,0,AXIAN,C05
 Axfood,0,AXFOOD,C06
-Ã…land Islands,1,AX,C01
+Ãƒâ€¦land Islands,1,AX,C01
 ANIMAL WELFARE INSTITUTE,0,AWI,C07
 Aviation Working Group,0,AWG,C08B
 AMERICAN WOOD COUNCIL,0,AWC,C02
@@ -3144,7 +3148,7 @@ Africa Tourism Partners,0,ATP,C06
 Azerbaijan Tourism and Management University,0,ATMU,C07
 Club Atletico de Madrid,0,ATHLETICO,C05
 ARAB THOUGHT FOUNDATION,0,ATHF,C05
-Alma Jean Henry Charitable TrustÂ (ATHCT),0,ATHCT,C05
+Alma Jean Henry Charitable TrustÃ‚Â (ATHCT),0,ATHCT,C05
 ALLIANCE TO END PLASTIC WASTE,0,ATEPW,C02
 Association of Travel Agencies of Azerbaijan,0,ATAA,C02
 Austria,1,AT,C01
@@ -3158,7 +3162,7 @@ Asia Society,0,ASIASOCIE,C02
 The Asia Foundation,0,ASIAFOUNDATION,C05
 ASHI INVESTMENT,0,ASHI,C04C
 ASF (El Salvador),0,ASFEL,C02
-AmitiÃ© Sans FrontiÃ¨res/Friendship without Borders,0,ASF,C02
+AmitiÃƒÂ© Sans FrontiÃƒÂ¨res/Friendship without Borders,0,ASF,C02
 Avocats Sans Frontieres Belgique,0,ASF11,C02
 Asia-Europe Foundation (ASEF),0,ASEF,C04E
 Agency for Aerial Navigation Safety in Africa and Madagascar,0,ASECNA,C04E
@@ -3178,8 +3182,8 @@ Institute of Public Policy,0,ARM-IPP,C05
 Universidad Siglo 21/21st Century Business University,0,ARG-UNIS21,C07
 Scania Argentina S.A.,0,ARG-SCANIA,C02
 Pacto Global Argentina,0,ARG-PACTO,C02
-FundaciÃ¯Â¿Â½n FundAsis,0,ARG-FDASIS,C05
-Commercial and Industrial Center Rafaela and Region (Centro Comercial e Industrial de Rafaela y la RegiÃ³n),0,ARG-CCIRR,C02
+FundaciÃƒÂ¯Ã‚Â¿Ã‚Â½n FundAsis,0,ARG-FDASIS,C05
+Commercial and Industrial Center Rafaela and Region (Centro Comercial e Industrial de Rafaela y la RegiÃƒÂ³n),0,ARG-CCIRR,C02
 Agency for Economic Development of the City of Cordoba (ADEC),0,ARG-ADEC,C03
 ACA BIO Cooperativa Ltda,0,ARG-ACABIO,C02
 ARDONAGH HOLDCO LIMITED,0,ARDONAGH,C06
@@ -3196,7 +3200,7 @@ Asia Pacific University of Technology & Innovation,0,APUTI,C07
 Asia-Pacific Space Cooperation Organization,0,APSCO,C04E
 Asia Pacific Smart Card Association,0,APSCA,C02
 Apple Inc,0,APPLE,C06
-AsociaciÃ³n Internacional para la ProtecciÃ³n del Patrimonio GastronÃ³mico/ ASSOCIATION FOR THE PROTECTION OF GASTRONOMIC HERITAGE,0,APPG,C02
+AsociaciÃƒÂ³n Internacional para la ProtecciÃƒÂ³n del Patrimonio GastronÃƒÂ³mico/ ASSOCIATION FOR THE PROTECTION OF GASTRONOMIC HERITAGE,0,APPG,C02
 APNIC Foundation,0,APNIC,C05
 Asia-Pacific Network for Global Change Research (APN),0,APN,C04E
 Association Professionnelle des Establissements de Credit du Cameroun)/Professional Association of Credit Establishments of Cameroon,0,APECCAM,C02
@@ -3215,14 +3219,14 @@ American Near East Refugee Aid,0,ANERA,C02
 AFRICAN NATIONAL CONGRESS,0,ANC,C08B
 ANATO-Asoc.Colombiana de Ag. Viajes y Turismo/ Colombian Association of Travel and Tourism,0,ANATO,C02
 Universidad Anahuac/Anahuac University Network,0,ANAHUAC,C02
-African Management Services Company (AMSCO)Â ,0,AMSCO,C06
+African Management Services Company (AMSCO)Ã‚Â ,0,AMSCO,C06
 Amplifon Foudation,0,AMPLIFOUND,C05
-"AsociaciÃ¯on Mexicana de Industrias de InvestigaciÃ¯on Farmaceutica, A.C./The Mexican Association of Pharmaceutical Research Industries",0,AMIIF,C02
-AMFORHT - Association Mondiale pour la Formation HÃ´teliÃ¨re et Touristique/WORLD ASSOCIATION  FOR HOSPITALITY AND TOURISM EDUCATION AND TRAINING,0,AMFORHT,C07
-"ASOCIACIÃ“N MEXICANA DE MUJERES EMPRESARIAS, A.C. AMEXME/Mexican Association of Business Women Amexme Nacional",0,AMEXME,C02
-AMETIC -Asoc.Multisectorial Empresas ElectrÃ³nica/Multisectorial Association of Spanish Electronics and Communications Companies,0,AMETIC,C02
+"AsociaciÃƒÂ¯on Mexicana de Industrias de InvestigaciÃƒÂ¯on Farmaceutica, A.C./The Mexican Association of Pharmaceutical Research Industries",0,AMIIF,C02
+AMFORHT - Association Mondiale pour la Formation HÃƒÂ´teliÃƒÂ¨re et Touristique/WORLD ASSOCIATION  FOR HOSPITALITY AND TOURISM EDUCATION AND TRAINING,0,AMFORHT,C07
+"ASOCIACIÃƒâ€œN MEXICANA DE MUJERES EMPRESARIAS, A.C. AMEXME/Mexican Association of Business Women Amexme Nacional",0,AMEXME,C02
+AMETIC -Asoc.Multisectorial Empresas ElectrÃƒÂ³nica/Multisectorial Association of Spanish Electronics and Communications Companies,0,AMETIC,C02
 AMERRA Capital Management LLC,0,AMERRA,C06
-AMBIS vysokÃ¡ Å¡kola a.s./ AMBIS University,0,AMBIS,C07
+AMBIS vysokÃƒÂ¡ Ã…Â¡kola a.s./ AMBIS University,0,AMBIS,C07
 A M BEST COMPANY INC,0,AMBC,C06
 AMAZON.COM,0,AMAZON,C06
 Armenia,1,AM,C01
@@ -3268,9 +3272,9 @@ Association Internationale des etudiants en Sciences economiques et Commerciales
 Associazione Intaliana Confindustria Alberghi/ Italian Confindustria Hotel Association,0,AICA,C02
 Arab Islamic Bank,0,AIB,C06
 Anguilla,1,AI,C01
-AHT AsociaciÃ³n de Hoteles de Turismo de la RepÃºblica Argentina/ The Association of Tourism Hotels of the Argentine Republic,0,AHTRA,C02
-"AssociaÃ§ao de RestauraÃ§ao e Similares de Portugal/ Portuguese Hotel, Restaurant and Similar Association (AHRESP)",0,AHRESP,C02
-AssociaÃ§ao dos Hoteis e Resorts de Angola AHRA/Association of Hotels and Resorts of Angola (AHRA),0,AHRA,C02
+AHT AsociaciÃƒÂ³n de Hoteles de Turismo de la RepÃƒÂºblica Argentina/ The Association of Tourism Hotels of the Argentine Republic,0,AHTRA,C02
+"AssociaÃƒÂ§ao de RestauraÃƒÂ§ao e Similares de Portugal/ Portuguese Hotel, Restaurant and Similar Association (AHRESP)",0,AHRESP,C02
+AssociaÃƒÂ§ao dos Hoteis e Resorts de Angola AHRA/Association of Hotels and Resorts of Angola (AHRA),0,AHRA,C02
 The Alliance for Health Policy and Systems Research,0,AHPSR,C04B
 American Hotel & Loding Educational Institute,0,AHLEI,C07
 Camara de Industria y Comercio Argentino-Alemana,0,AHK-ARG,C06
@@ -3280,18 +3284,18 @@ AGILITY LOGISTICS,0,AGILITY,C06
 Arab Gulf Program for United Nations Development Organizations,0,AGFUND,C04E
 NGO COMMITTEE ON AGEING,0,AGEING,C02
 Anwar Gargash Diplomatic Acadmy,0,AGDA,C07
-AgaÂ Khan Development Network,0,AGA-KHAN,C05
+AgaÃ‚Â Khan Development Network,0,AGA-KHAN,C05
 Antigua and Barbuda,1,AG,C01
 African Union,0,AFUNION,C04E
 "Alliance for Public Health, Ukraine",0,AFPH,C02
 AFP POPULAR,0,AFP11,C06
-ASSOCIATION OF FORMER INTERNATIONAL CIVILÂ SERVANTS,0,AFICS,C02
+ASSOCIATION OF FORMER INTERNATIONAL CIVILÃ‚Â SERVANTS,0,AFICS,C02
 ALLIANCE FOR A GREEN REVOLUTION IN AFRICA,0,AFGRA,C02
 AFGHANAID,0,AFGHANAID,C02
 Anne Frank Fund,0,AFFUND,C05
 AFRICAN EXPORT IMPORT BANK,0,AFEXIM,C04A
 Arab Fund for Economic and Social development (AFESD),0,AFESD,C04E
-AsociaciÃ³n Femenina de Ejecutivas de Empresas de Turismo/ (AFEET)/Women's Association of Tourism Business Executives,0,AFEET,C02
+AsociaciÃƒÂ³n Femenina de Ejecutivas de Empresas de Turismo/ (AFEET)/Women's Association of Tourism Business Executives,0,AFEET,C02
 African Development Bank,0,AFDB,C04A
 African Civil Aviation Commission,0,AFCAC,C04E
 AFC Asian Football Confederation,0,AFC,C02
@@ -3301,10 +3305,10 @@ Afghanistan,1,AF,C01
 AFRICAN-EURASIAN WATERBIRDS AGREEMENT (AEWA),0,AEWA,C04C
 Asociacion Empresaria Hotelera de Madrid/ Madrid Hotel Business Association - AEHM,,AEHM,C02
 "Alliance for an Energy Efficient Economy (AEEE),",0,AEEE,C03
-Asociacion EspaÃ±ola Directores y Directivos Hotel/ Spanish Association of Hotel Directors and Managers,0,AEDH,C02
+Asociacion EspaÃƒÂ±ola Directores y Directivos Hotel/ Spanish Association of Hotel Directors and Managers,0,AEDH,C02
 AECOM technology Corporation,0,AECOM,C06
-AsociaciÃ³n EspaÃ±ola de Expertos CientÃ­ficos en Turismo./Spanish Association of Scientific Experts Tourism/AECIT,0,AECIT,C07
-"Asociacion EspaÃ±ola De Comisionados De Filmaciones, Cine Y Television/Spanish Association of Film, Film and Television Commissioners - Spain Film Commission Association",0,AECF,C02
+AsociaciÃƒÂ³n EspaÃƒÂ±ola de Expertos CientÃƒÂ­ficos en Turismo./Spanish Association of Scientific Experts Tourism/AECIT,0,AECIT,C07
+"Asociacion EspaÃƒÂ±ola De Comisionados De Filmaciones, Cine Y Television/Spanish Association of Film, Film and Television Commissioners - Spain Film Commission Association",0,AECF,C02
 AYUDA EN ACCION MEXICO,0,AEC,C05
 United Arab Emirates,1,AE,C01
 ADYEN,0,ADYEN,C06
@@ -3318,20 +3322,20 @@ African Development Fund,0,ADF,C05
 ADELPHI RESEARCH GMBH,0,ADELPHI,C08B
 "Asian Dev Bank Inst, Japan",0,ADBI,C04A
 Asian Development Bank,0,ADB,C04A
-AsociaciÃ¯on de Administradoras de Fondos de Pensiones de la Republica Dominicana/The Dominican Association of Pension Fund Administration,0,ADAFP,C02
+AsociaciÃƒÂ¯on de Administradoras de Fondos de Pensiones de la Republica Dominicana/The Dominican Association of Pension Fund Administration,0,ADAFP,C02
 ASIA DEVELOPMENT ALLIANCE,0,ADA,C02
 Andorra,1,AD,C01
 AMAZON COOPERATION TREATY ORGANIZAT,0,ACTO,C04E
 ActionAid International,0,ACTIONAID,C02
 ACTED,0,ACTED,C02
-AsociaciÃ³n Cubana de TÃ©cnicos AgrÃ­colas y Forestales (ACTAF)/Cuban Association of Agricultural and Forestry Technicians (ACTAF),0,ACTAF-CUB,C02
+AsociaciÃƒÂ³n Cubana de TÃƒÂ©cnicos AgrÃƒÂ­colas y Forestales (ACTAF)/Cuban Association of Agricultural and Forestry Technicians (ACTAF),0,ACTAF-CUB,C02
 American Cancer Society,0,ACS,C05
 Asociacion Espana con ACNUR/ Spain Association with UNHCR,0,ACNUR-ESPANA,C05
 Fundacion ACNUR Comite Argentino/UNHCR Foundation Argentine Committee,0,ACNUR-ARG,C05
 ASOCIACION COMUNAL DE JUNTAS DEL MUNICIPIO DE LA MONTANITA/COMMUNAL ASSOCIATION OF BOARDS OF THE MUNICIPALITY OF LA MONTANITA,0,ACJMM,C02
 ACI World/ Airports Council International,0,ACI,C06
 American Chemical Society,0,ACHS,C02
-Agencia Chilena de Eficiencia EnergÃ©tica - ECPA/Chilean Energy Efficiency Agency,0,ACHEE,C05
+Agencia Chilena de Eficiencia EnergÃƒÂ©tica - ECPA/Chilean Energy Efficiency Agency,0,ACHEE,C05
 ASSOCIACION CONNAISSANCE DE L'HISTOIRE DE L'AFRIQUE CONTEMPORAINE/ASSOCIATION FOR KNOWLEDGE OF THE HISTORY OF CONTEMPORARY AFRICA,0,ACHAC,C02
 All China Federation of Trade Unions (ACFTU),0,ACFTU,C08B
 AUSTRALIAN CONSERVATION FOUNDATION,0,ACF11,C05
@@ -3345,10 +3349,10 @@ African Capacity Building Foundation,0,ACBF,C05
 Poland Academia,0,Academia,C07
 Abyei,0,ABYEI,C08B
 ABT ASSOCIATES PTY LTD,0,ABTAP,C06
-ABTA â€“ The Travel Association/Association of British Travel Agents,0,ABTA,C02
+ABTA Ã¢â‚¬â€œ The Travel Association/Association of British Travel Agents,0,ABTA,C02
 Association of Banks in Singapore,0,ABS,C05
 ANHEUSER-BUSCH INBEV SA/AB InBev (Anheuser-Busch InBev),0,ABINBEV,C06
-Â Brazilian Development Association/Associacao Brasileira de Desenvolvimento,0,ABDE,C02
+Ã‚Â Brazilian Development Association/Associacao Brasileira de Desenvolvimento,0,ABDE,C02
 ABC Domino,0,ABC-DOMINO,C06
 Ammon Applied University College of Hospitality & Tourism Education/ AAUC,0,AAUC,C07
 Africa Agriculture and Trade Investment,0,AATIF,C04B
@@ -3360,15 +3364,15 @@ The Arab Authority for Agricultural Investment and Development (AAAID,0,AAAID,C0
 2 Degree Investing Initiative,0,2DII,C02
 1M1B FOUNDATION,0,1M1B,C05
 Sark,1,-,C01
-Asociación de Comercialización y Exportación de Banano - ARCOBANEC,0,ARCOBANEC,C02
+AsociaciÃ³n de ComercializaciÃ³n y ExportaciÃ³n de Banano - ARCOBANEC,0,ARCOBANEC,C02
 Afruibana,0,AFRUIBANA,C02
-Agence Fédérale pour la Sécurité de la Chaîne Alimentaire (AFSCA)/Federal agency for food security chain,0,AFSCA,C02
+Agence FÃ©dÃ©rale pour la SÃ©curitÃ© de la ChaÃ®ne Alimentaire (AFSCA)/Federal agency for food security chain,0,AFSCA,C02
 "ASOCIACION AGRICOLA LIBERTAD, FLORIDA y PALMAS",0,ASOPROLIFLO,C02
-Association of Banana Producers' Organizations of the Canary Islands/ Asociación de Organizaciones de Productores de Plátanos de Canarias (ASPROCAN),0,ASPROCAN,C02
+Association of Banana Producers' Organizations of the Canary Islands/ AsociaciÃ³n de Organizaciones de Productores de PlÃ¡tanos de Canarias (ASPROCAN),0,ASPROCAN,C02
 Banana link limited,0,BANLINK,C06
 Asociacion Bananos Ecologicos de la Linea Noroeste (BANELINO),0,BANELINO,C04E
 Federation of Japan Tuna Fisheries Co-operative Association,0,FJTFCA,C02
-Research Institute of Organic Agriculture (Forschungsinstitut für biologischen Landbau),0,FIBL,C07
+Research Institute of Organic Agriculture (Forschungsinstitut fÃ¼r biologischen Landbau),0,FIBL,C07
 "Pilipino Banana Growers and Exporters Association, Inc. (PBGEA)",0,PBGEA,C02
 Global Pulse Confederation,0,GPC11,C02
 University of Notre Dame,0,UNND,C07
@@ -3423,7 +3427,6 @@ HIROSHIMA ORGANIZATION FOR GLOBAL P,0,HOPE20,C04E
 UNIVERSITAET FUER ANGEWANDTE KUNST,0,UAAV,C07
 ASIA WOMEN LEADERS FORUM,0,AWLF,C02
 OSLOMET,0,OSLOMET,C07
-BULLETIN OF THE ATOMIC SCIENTISTS,0,OTHERS,C08B
 G7 PLUS SECRETARIAT,0,GEE7,C04E
 FRENCH INSTITUTE ALLIANCE FRANCAISE,0,ALLIANF,C07
 GCAP GLOBAL FOUNDATION,0,GCAP,C05
@@ -3486,10 +3489,10 @@ BANCOLOMBIA,0,BANCOLOM,C06
 BRITISH PETROLEUM/BP p.l.c.,0,BPPLC,C06
 Capricorn Foundation,0,CAPRICORN,C05
 Climate Change Center,0,CCC,C02
-Compagnie Maritime d'Affrètement (CMA) and Compagnie Générale Maritime (CGM)/Maritime Freighting Company and General Maritime Company,0,CMACGM,C05
+Compagnie Maritime d'AffrÃ¨tement (CMA) and Compagnie GÃ©nÃ©rale Maritime (CGM)/Maritime Freighting Company and General Maritime Company,0,CMACGM,C05
 Costco Wholesale Corporation,0,COSTCO,C06
 DSM-FIRMENICH Corporation,0,DSM,C06
-FONDO SOCIAL DEL PROYECTOI INTEGRAL BAYOVAR (FOSPIBAY)/ Social Fund of the Bayóvar Integral Project,0,FOSPIBAY,C05
+FONDO SOCIAL DEL PROYECTOI INTEGRAL BAYOVAR (FOSPIBAY)/ Social Fund of the BayÃ³var Integral Project,0,FOSPIBAY,C05
 Food For The Poor,0,FFTP,C02
 For Globe Telecom Inc.,0,GLOBE,C06
 Human Appeal,0,HAPPEAL,C02
@@ -3524,7 +3527,7 @@ NAMDIA FOUNDATION,0,NAMDIA,C05
 OCEANO AZUL FOUNDATION,0,OCEANOAZULF,C05
 Caribbean air navigation service network,0,CANSNET,C04E
 AEON Environmental foundation,0,AEONF,C05
-MERI Foundation/ Fundación MERI,0,MERIF,C05
+MERI Foundation/ FundaciÃ³n MERI,0,MERIF,C05
 Fondation Carmignac/Carmignac foundation,0,CARMIGNACF,C05
 Prince Sattam Bin Abdulaziz University,0,PSAU,C07
 EU Business School,0,EURUNI,C07
