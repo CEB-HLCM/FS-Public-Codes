@@ -1,284 +1,284 @@
-﻿CODE,TYPE,COUNTRY,REGION CODE,REGION NAME
-15,SUB,Northern Africa,2,Africa
-AF,COU,Afghanistan,34,Southern Asia
-DZ,COU,Algeria,15,Northern Africa
-AX,COU,Åland Islands,154,Northern Europe
-EG,COU,Egypt,15,Northern Africa
-AL,COU,Albania,39,Southern Europe
-LY,COU,Libya,15,Northern Africa
-MA,COU,Morocco,15,Northern Africa
-SD,COU,Sudan,15,Northern Africa
-AD,COU,Andorra,39,Southern Europe
-TN,COU,Tunisia,15,Northern Africa
-AO,COU,Angola,17,Middle Africa
-EH,COU,Western Sahara,15,Northern Africa
-AI,COU,Anguilla,29,Caribbean
-14,SUB,Eastern Africa,202,Sub-Saharan Africa
-AQ,COU,Antarctica,10,Antarctica
-IO,COU,British Indian Ocean Territory,14,Eastern Africa
-AG,COU,Antigua and Barbuda,29,Caribbean
-BI,COU,Burundi,14,Eastern Africa
-AR,COU,Argentina,5,South America
-KM,COU,Comoros,14,Eastern Africa
-AM,COU,Armenia,145,Western Asia
-DJ,COU,Djibouti,14,Eastern Africa
-AW,COU,Aruba,29,Caribbean
-ER,COU,Eritrea,14,Eastern Africa
-AU,COU,Australia,53,Australia and New Zealand
-ET,COU,Ethiopia,14,Eastern Africa
-AT,COU,Austria,155,Western Europe
-TF,COU,French Southern Territories,14,Eastern Africa
-AZ,COU,Azerbaijan,145,Western Asia
-KE,COU,Kenya,14,Eastern Africa
-BS,COU,Bahamas,29,Caribbean
-MG,COU,Madagascar,14,Eastern Africa
-BH,COU,Bahrain,145,Western Asia
-MW,COU,Malawi,14,Eastern Africa
-BD,COU,Bangladesh,34,Southern Asia
-MU,COU,Mauritius,14,Eastern Africa
-BB,COU,Barbados,29,Caribbean
-YT,COU,Mayotte,14,Eastern Africa
-BY,COU,Belarus,151,Eastern Europe
-MZ,COU,Mozambique,14,Eastern Africa
-BE,COU,Belgium,155,Western Europe
-RE,COU,Réunion,14,Eastern Africa
-BZ,COU,Belize,13,Central America
-RW,COU,Rwanda,14,Eastern Africa
-BJ,COU,Benin,11,Western Africa
-SC,COU,Seychelles,14,Eastern Africa
-BM,COU,Bermuda,21,Northern America
-SO,COU,Somalia,14,Eastern Africa
-BT,COU,Bhutan,34,Southern Asia
-SS,COU,South Sudan,14,Eastern Africa
-BO,COU,Bolivia (Plurinational State of),5,South America
-UG,COU,Uganda,14,Eastern Africa
-BQ,COU,"Bonaire, Sint Eustatius and Saba",29,Caribbean
-TZ,COU,United Republic of Tanzania,14,Eastern Africa
-BA,COU,Bosnia and Herzegovina,39,Southern Europe
-ZM,COU,Zambia,14,Eastern Africa
-BW,COU,Botswana,18,Southern Africa
-ZW,COU,Zimbabwe,14,Eastern Africa
-BV,COU,Bouvet Island,5,South America
-17,SUB,Middle Africa,202,Sub-Saharan Africa
-BR,COU,Brazil,5,South America
-CM,COU,Cameroon,17,Middle Africa
-BN,COU,Brunei Darussalam,35,South-eastern Asia
-CF,COU,Central African Republic,17,Middle Africa
-BG,COU,Bulgaria,151,Eastern Europe
-TD,COU,Chad,17,Middle Africa
-BF,COU,Burkina Faso,11,Western Africa
-CG,COU,Congo,17,Middle Africa
-CD,COU,Democratic Republic of the Congo,17,Middle Africa
-CV,COU,Cabo Verde,11,Western Africa
-GQ,COU,Equatorial Guinea,17,Middle Africa
-KH,COU,Cambodia,35,South-eastern Asia
-GA,COU,Gabon,17,Middle Africa
-ST,COU,Sao Tome and Principe,17,Middle Africa
-CA,COU,Canada,21,Northern America
-18,SUB,Southern Africa,202,Sub-Saharan Africa
-KY,COU,Cayman Islands,29,Caribbean
-SZ,COU,Eswatini,18,Southern Africa
-LS,COU,Lesotho,18,Southern Africa
-CL,COU,Chile,5,South America
-NA,COU,Namibia,18,Southern Africa
-CN,COU,China,30,Eastern Asia
-ZA,COU,South Africa,18,Southern Africa
-CX,COU,Christmas Island,53,Australia and New Zealand
-11,SUB,Western Africa,202,Sub-Saharan Africa
-CC,COU,Cocos (Keeling) Islands,53,Australia and New Zealand
-CO,COU,Colombia,5,South America
-CI,COU,Côte d'Ivoire,11,Western Africa
-GM,COU,Gambia,11,Western Africa
-GH,COU,Ghana,11,Western Africa
-CR,COU,Costa Rica,13,Central America
-GN,COU,Guinea,11,Western Africa
-GW,COU,Guinea-Bissau,11,Western Africa
-HR,COU,Croatia,39,Southern Europe
-LR,COU,Liberia,11,Western Africa
-CU,COU,Cuba,29,Caribbean
-ML,COU,Mali,11,Western Africa
-CW,COU,Curaçao,29,Caribbean
-MR,COU,Mauritania,11,Western Africa
-CY,COU,Cyprus,145,Western Asia
-NE,COU,Niger,11,Western Africa
-CZ,COU,Czechia,151,Eastern Europe
-NG,COU,Nigeria,11,Western Africa
-DK,COU,Denmark,154,Northern Europe
-SH,COU,Saint Helena,11,Western Africa
-SN,COU,Senegal,11,Western Africa
-DM,COU,Dominica,29,Caribbean
-SL,COU,Sierra Leone,11,Western Africa
-DO,COU,Dominican Republic,29,Caribbean
-TG,COU,Togo,11,Western Africa
-EC,COU,Ecuador,5,South America
-29,SUB,Caribbean,419,Latin America and the Caribbean
-SV,COU,El Salvador,13,Central America
-EE,COU,Estonia,154,Northern Europe
-VG,COU,British Virgin Islands,29,Caribbean
-FK,COU,Falkland Islands [Malvinas],5,South America
-FO,COU,Faroe Islands,154,Northern Europe
-FJ,COU,Fiji,54,Melanesia
-FI,COU,Finland,154,Northern Europe
-FR,COU,France,155,Western Europe
-GF,COU,French Guiana,5,South America
-GD,COU,Grenada,29,Caribbean
-GP,COU,Guadeloupe,29,Caribbean
-HT,COU,Haiti,29,Caribbean
-JM,COU,Jamaica,29,Caribbean
-MQ,COU,Martinique,29,Caribbean
-GE,COU,Georgia,145,Western Asia
-MS,COU,Montserrat,29,Caribbean
-DE,COU,Germany,155,Western Europe
-PR,COU,Puerto Rico,29,Caribbean
-BL,COU,Saint Barthélemy,29,Caribbean
-GI,COU,Gibraltar,39,Southern Europe
-KN,COU,Saint Kitts and Nevis,29,Caribbean
-GR,COU,Greece,39,Southern Europe
-LC,COU,Saint Lucia,29,Caribbean
-GL,COU,Greenland,21,Northern America
-MF,COU,Saint Martin (French part),29,Caribbean
-VC,COU,Saint Vincent and the Grenadines,29,Caribbean
-SX,COU,Sint Maarten (Dutch part),29,Caribbean
-TT,COU,Trinidad and Tobago,29,Caribbean
-GT,COU,Guatemala,13,Central America
-TC,COU,Turks and Caicos Islands,29,Caribbean
-GG,COU,Guernsey,830,Channel Islands
-VI,COU,United States Virgin Islands,29,Caribbean
-13,SUB,Central America,419,Latin America and the Caribbean
-GY,COU,Guyana,5,South America
-HM,COU,Heard Island and McDonald Islands,53,Australia and New Zealand
-VA,COU,Holy See,39,Southern Europe
-HN,COU,Honduras,13,Central America
-MX,COU,Mexico,13,Central America
-HK,COU,"China, Hong Kong Special Administrative Region",30,Eastern Asia
-NI,COU,Nicaragua,13,Central America
-HU,COU,Hungary,151,Eastern Europe
-PA,COU,Panama,13,Central America
-IS,COU,Iceland,154,Northern Europe
-5,SUB,South America,419,Latin America and the Caribbean
-IN,COU,India,34,Southern Asia
-ID,COU,Indonesia,35,South-eastern Asia
-IR,COU,Iran (Islamic Republic of),34,Southern Asia
-IQ,COU,Iraq,145,Western Asia
-IE,COU,Ireland,154,Northern Europe
-IM,COU,Isle of Man,154,Northern Europe
-IL,COU,Israel,145,Western Asia
-IT,COU,Italy,39,Southern Europe
-JP,COU,Japan,30,Eastern Asia
-JE,COU,Jersey,830,Channel Islands
-PY,COU,Paraguay,5,South America
-JO,COU,Jordan,145,Western Asia
-PE,COU,Peru,5,South America
-KZ,COU,Kazakhstan,143,Central Asia
-GS,COU,South Georgia and the South Sandwich Islands,5,South America
-SR,COU,Suriname,5,South America
-UY,COU,Uruguay,5,South America
-KP,COU,Democratic People's Republic of Korea,30,Eastern Asia
-VE,COU,Venezuela (Bolivarian Republic of),5,South America
-KR,COU,Republic of Korea,30,Eastern Asia
-21,SUB,Northern America,19,Americas
-KW,COU,Kuwait,145,Western Asia
-KG,COU,Kyrgyzstan,143,Central Asia
-LA,COU,Lao People's Democratic Republic,35,South-eastern Asia
-LV,COU,Latvia,154,Northern Europe
-PM,COU,Saint Pierre and Miquelon,21,Northern America
-LB,COU,Lebanon,145,Western Asia
-US,COU,United States of America,21,Northern America
-143,SUB,Central Asia,142,Asia
-LI,COU,Liechtenstein,155,Western Europe
-LT,COU,Lithuania,154,Northern Europe
-TJ,COU,Tajikistan,143,Central Asia
-LU,COU,Luxembourg,155,Western Europe
-TM,COU,Turkmenistan,143,Central Asia
-MO,COU,"China, Macao Special Administrative Region",30,Eastern Asia
-UZ,COU,Uzbekistan,143,Central Asia
-MK,COU,North Macedonia,39,Southern Europe
-30,SUB,Eastern Asia,142,Asia
-MY,COU,Malaysia,35,South-eastern Asia
-MV,COU,Maldives,34,Southern Asia
-MT,COU,Malta,39,Southern Europe
-MN,COU,Mongolia,30,Eastern Asia
-35,SUB,South-eastern Asia,142,Asia
-MD,COU,Republic of Moldova,151,Eastern Europe
-MM,COU,Myanmar,35,South-eastern Asia
-MC,COU,Monaco,155,Western Europe
-PH,COU,Philippines,35,South-eastern Asia
-SG,COU,Singapore,35,South-eastern Asia
-ME,COU,Montenegro,39,Southern Europe
-TH,COU,Thailand,35,South-eastern Asia
-TL,COU,Timor-Leste,35,South-eastern Asia
-VN,COU,Viet Nam,35,South-eastern Asia
-34,SUB,Southern Asia,34,Southern Asia
-NP,COU,Nepal,34,Southern Asia
-NL,COU,Netherlands,155,Western Europe
-NC,COU,New Caledonia,54,Melanesia
-NZ,COU,New Zealand,53,Australia and New Zealand
-PK,COU,Pakistan,34,Southern Asia
-LK,COU,Sri Lanka,34,Southern Asia
-145,SUB,Western Asia,142,Asia
-NF,COU,Norfolk Island,53,Australia and New Zealand
-NO,COU,Norway,154,Northern Europe
-OM,COU,Oman,145,Western Asia
-PS,COU,State of Palestine,145,Western Asia
-PG,COU,Papua New Guinea,54,Melanesia
-QA,COU,Qatar,145,Western Asia
-SA,COU,Saudi Arabia,145,Western Asia
-PL,COU,Poland,151,Eastern Europe
-SY,COU,Syrian Arab Republic,145,Western Asia
-PT,COU,Portugal,39,Southern Europe
-TR,COU,Turkey,145,Western Asia
-AE,COU,United Arab Emirates,145,Western Asia
-YE,COU,Yemen,145,Western Asia
-151,SUB,Eastern Europe,150,Europe
-RO,COU,Romania,151,Eastern Europe
-RU,COU,Russian Federation,151,Eastern Europe
-SK,COU,Slovakia,151,Eastern Europe
-UA,COU,Ukraine,151,Eastern Europe
-154,SUB,Northern Europe,154,Northern Europe
-SM,COU,San Marino,39,Southern Europe
-830,SUB,Channel Islands,830,Channel Islands
-RS,COU,Serbia,39,Southern Europe
-SJ,COU,Svalbard and Jan Mayen,154,Northern Europe
-SE,COU,Sweden,154,Northern Europe
-GB,COU,United Kingdom of Great Britain and Northern Ireland (the),154,Northern Europe
-39,SUB,Southern Europe,150,Europe
-SI,COU,Slovenia,39,Southern Europe
-ES,COU,Spain,39,Southern Europe
-CH,COU,Switzerland,155,Western Europe
-155,SUB,Western Europe,150,Europe
-53,SUB,Australia and New Zealand,9,Oceania
-54,SUB,Melanesia,9,Oceania
-SB,COU,Solomon Islands,54,Melanesia
-VU,COU,Vanuatu,54,Melanesia
-57,SUB,Micronesia,9,Oceania
-GU,COU,Guam,57,Micronesia
-KI,COU,Kiribati,57,Micronesia
-MH,COU,Marshall Islands,57,Micronesia
-FM,COU,Micronesia (Federated States of),57,Micronesia
-NR,COU,Nauru,57,Micronesia
-MP,COU,Northern Mariana Islands,57,Micronesia
-PW,COU,Palau,57,Micronesia
-UM,COU,United States Minor Outlying Islands (the),57,Micronesia
-61,SUB,Polynesia,9,Oceania
-AS,COU,American Samoa,61,Polynesia
-CK,COU,Cook Islands,61,Polynesia
-PF,COU,French Polynesia,61,Polynesia
-NU,COU,Niue,61,Polynesia
-PN,COU,Pitcairn,61,Polynesia
-WS,COU,Samoa,61,Polynesia
-TK,COU,Tokelau,61,Polynesia
-TO,COU,Tonga,61,Polynesia
-TV,COU,Tuvalu,61,Polynesia
-WF,COU,Wallis and Futuna,61,Polynesia
-2,REG,Africa,2,Africa
-19,REG,Americas,19,Americas
-419,SUB,Latin America and the Caribbean,19,Americas
-142,REG,Asia,142,Asia
-9,REG,Oceania,9,Oceania
-150,REG,Europe,150,Europe
-10,REG,Antarctica,10,Antarctica
-XK,COU,Kosovo,39,Southern Europe
-G&I,REG,Global and Interregional,G&I,Global and Interregional
-Global - Enabling Function,REG,Global - Enabling Function,NA,NA
-202,SUB,Sub-Saharan Africa,2,Africa
-TW,COU,Taiwan (Province of China),30,Eastern Asia
+﻿CODE,TYPE,COUNTRY,REGION CODE,REGION,SUBREGION
+15,SUB,Northern Africa,2,Africa,Africa
+AF,COU,Afghanistan,34,Asia,Southern Asia
+DZ,COU,Algeria,15,Africa,Northern Africa
+AX,COU,Åland Islands,154,Europe,Northern Europe
+EG,COU,Egypt,15,Africa,Northern Africa
+AL,COU,Albania,39,Europe,Southern Europe
+LY,COU,Libya,15,Africa,Northern Africa
+MA,COU,Morocco,15,Africa,Northern Africa
+SD,COU,Sudan,15,Africa,Northern Africa
+AD,COU,Andorra,39,Europe,Southern Europe
+TN,COU,Tunisia,15,Africa,Northern Africa
+AO,COU,Angola,17,Africa,Middle Africa
+EH,COU,Western Sahara,15,Africa,Northern Africa
+AI,COU,Anguilla,29,Americas,Caribbean
+14,SUB,Eastern Africa,202,Africa,Sub-Saharan Africa
+AQ,COU,Antarctica,10,Antarctica,Antarctica
+IO,COU,British Indian Ocean Territory,14,Africa,Eastern Africa
+AG,COU,Antigua and Barbuda,29,Americas,Caribbean
+BI,COU,Burundi,14,Africa,Eastern Africa
+AR,COU,Argentina,5,Americas,South America
+KM,COU,Comoros,14,Africa,Eastern Africa
+AM,COU,Armenia,145,Asia,Western Asia
+DJ,COU,Djibouti,14,Africa,Eastern Africa
+AW,COU,Aruba,29,Americas,Caribbean
+ER,COU,Eritrea,14,Africa,Eastern Africa
+AU,COU,Australia,53,Oceania,Australia and New Zealand
+ET,COU,Ethiopia,14,Africa,Eastern Africa
+AT,COU,Austria,155,Europe,Western Europe
+TF,COU,French Southern Territories,14,Africa,Eastern Africa
+AZ,COU,Azerbaijan,145,Asia,Western Asia
+KE,COU,Kenya,14,Africa,Eastern Africa
+BS,COU,Bahamas,29,Americas,Caribbean
+MG,COU,Madagascar,14,Africa,Eastern Africa
+BH,COU,Bahrain,145,Asia,Western Asia
+MW,COU,Malawi,14,Africa,Eastern Africa
+BD,COU,Bangladesh,34,Asia,Southern Asia
+MU,COU,Mauritius,14,Africa,Eastern Africa
+BB,COU,Barbados,29,Americas,Caribbean
+YT,COU,Mayotte,14,Africa,Eastern Africa
+BY,COU,Belarus,151,Europe,Eastern Europe
+MZ,COU,Mozambique,14,Africa,Eastern Africa
+BE,COU,Belgium,155,Europe,Western Europe
+RE,COU,Réunion,14,Africa,Eastern Africa
+BZ,COU,Belize,13,Americas,Central America
+RW,COU,Rwanda,14,Africa,Eastern Africa
+BJ,COU,Benin,11,Africa,Western Africa
+SC,COU,Seychelles,14,Africa,Eastern Africa
+BM,COU,Bermuda,21,Americas,Northern America
+SO,COU,Somalia,14,Africa,Eastern Africa
+BT,COU,Bhutan,34,Asia,Southern Asia
+SS,COU,South Sudan,14,Africa,Eastern Africa
+BO,COU,Bolivia (Plurinational State of),5,Americas,South America
+UG,COU,Uganda,14,Africa,Eastern Africa
+BQ,COU,"Bonaire, Sint Eustatius and Saba",29,Americas,Caribbean
+TZ,COU,United Republic of Tanzania,14,Africa,Eastern Africa
+BA,COU,Bosnia and Herzegovina,39,Europe,Southern Europe
+ZM,COU,Zambia,14,Africa,Eastern Africa
+BW,COU,Botswana,18,Africa,Southern Africa
+ZW,COU,Zimbabwe,14,Africa,Eastern Africa
+BV,COU,Bouvet Island,5,Americas,South America
+17,SUB,Middle Africa,202,Africa,Sub-Saharan Africa
+BR,COU,Brazil,5,Americas,South America
+CM,COU,Cameroon,17,Africa,Middle Africa
+BN,COU,Brunei Darussalam,35,Asia,South-eastern Asia
+CF,COU,Central African Republic,17,Africa,Middle Africa
+BG,COU,Bulgaria,151,Europe,Eastern Europe
+TD,COU,Chad,17,Africa,Middle Africa
+BF,COU,Burkina Faso,11,Africa,Western Africa
+CG,COU,Congo,17,Africa,Middle Africa
+CD,COU,Democratic Republic of the Congo,17,Africa,Middle Africa
+CV,COU,Cabo Verde,11,Africa,Western Africa
+GQ,COU,Equatorial Guinea,17,Africa,Middle Africa
+KH,COU,Cambodia,35,Asia,South-eastern Asia
+GA,COU,Gabon,17,Africa,Middle Africa
+ST,COU,Sao Tome and Principe,17,Africa,Middle Africa
+CA,COU,Canada,21,Americas,Northern America
+18,SUB,Southern Africa,202,Africa,Sub-Saharan Africa
+KY,COU,Cayman Islands,29,Americas,Caribbean
+SZ,COU,Eswatini,18,Africa,Southern Africa
+LS,COU,Lesotho,18,Africa,Southern Africa
+CL,COU,Chile,5,Americas,South America
+NA,COU,Namibia,18,Africa,Southern Africa
+CN,COU,China,30,Asia,Eastern Asia
+ZA,COU,South Africa,18,Africa,Southern Africa
+CX,COU,Christmas Island,53,Oceania,Australia and New Zealand
+11,SUB,Western Africa,202,Africa,Sub-Saharan Africa
+CC,COU,Cocos (Keeling) Islands,53,Oceania,Australia and New Zealand
+CO,COU,Colombia,5,Americas,South America
+CI,COU,Côte d'Ivoire,11,Africa,Western Africa
+GM,COU,Gambia,11,Africa,Western Africa
+GH,COU,Ghana,11,Africa,Western Africa
+CR,COU,Costa Rica,13,Americas,Central America
+GN,COU,Guinea,11,Africa,Western Africa
+GW,COU,Guinea-Bissau,11,Africa,Western Africa
+HR,COU,Croatia,39,Europe,Southern Europe
+LR,COU,Liberia,11,Africa,Western Africa
+CU,COU,Cuba,29,Americas,Caribbean
+ML,COU,Mali,11,Africa,Western Africa
+CW,COU,Curaçao,29,Americas,Caribbean
+MR,COU,Mauritania,11,Africa,Western Africa
+CY,COU,Cyprus,145,Asia,Western Asia
+NE,COU,Niger,11,Africa,Western Africa
+CZ,COU,Czechia,151,Europe,Eastern Europe
+NG,COU,Nigeria,11,Africa,Western Africa
+DK,COU,Denmark,154,Europe,Northern Europe
+SH,COU,Saint Helena,11,Africa,Western Africa
+SN,COU,Senegal,11,Africa,Western Africa
+DM,COU,Dominica,29,Americas,Caribbean
+SL,COU,Sierra Leone,11,Africa,Western Africa
+DO,COU,Dominican Republic,29,Americas,Caribbean
+TG,COU,Togo,11,Africa,Western Africa
+EC,COU,Ecuador,5,Americas,South America
+29,SUB,Caribbean,419,Americas,Latin America and the Caribbean
+SV,COU,El Salvador,13,Americas,Central America
+EE,COU,Estonia,154,Europe,Northern Europe
+VG,COU,British Virgin Islands,29,Americas,Caribbean
+FK,COU,Falkland Islands [Malvinas],5,Americas,South America
+FO,COU,Faroe Islands,154,Europe,Northern Europe
+FJ,COU,Fiji,54,Oceania,Melanesia
+FI,COU,Finland,154,Europe,Northern Europe
+FR,COU,France,155,Europe,Western Europe
+GF,COU,French Guiana,5,Americas,South America
+GD,COU,Grenada,29,Americas,Caribbean
+GP,COU,Guadeloupe,29,Americas,Caribbean
+HT,COU,Haiti,29,Americas,Caribbean
+JM,COU,Jamaica,29,Americas,Caribbean
+MQ,COU,Martinique,29,Americas,Caribbean
+GE,COU,Georgia,145,Asia,Western Asia
+MS,COU,Montserrat,29,Americas,Caribbean
+DE,COU,Germany,155,Europe,Western Europe
+PR,COU,Puerto Rico,29,Americas,Caribbean
+BL,COU,Saint Barthélemy,29,Americas,Caribbean
+GI,COU,Gibraltar,39,Europe,Southern Europe
+KN,COU,Saint Kitts and Nevis,29,Americas,Caribbean
+GR,COU,Greece,39,Europe,Southern Europe
+LC,COU,Saint Lucia,29,Americas,Caribbean
+GL,COU,Greenland,21,Americas,Northern America
+MF,COU,Saint Martin (French part),29,Americas,Caribbean
+VC,COU,Saint Vincent and the Grenadines,29,Americas,Caribbean
+SX,COU,Sint Maarten (Dutch part),29,Americas,Caribbean
+TT,COU,Trinidad and Tobago,29,Americas,Caribbean
+GT,COU,Guatemala,13,Americas,Central America
+TC,COU,Turks and Caicos Islands,29,Americas,Caribbean
+GG,COU,Guernsey,830,Europe,Channel Islands
+VI,COU,United States Virgin Islands,29,Americas,Caribbean
+13,SUB,Central America,419,Americas,Latin America and the Caribbean
+GY,COU,Guyana,5,Americas,South America
+HM,COU,Heard Island and McDonald Islands,53,Oceania,Australia and New Zealand
+VA,COU,Holy See,39,Europe,Southern Europe
+HN,COU,Honduras,13,Americas,Central America
+MX,COU,Mexico,13,Americas,Central America
+HK,COU,"China, Hong Kong Special Administrative Region",30,Asia,Eastern Asia
+NI,COU,Nicaragua,13,Americas,Central America
+HU,COU,Hungary,151,Europe,Eastern Europe
+PA,COU,Panama,13,Americas,Central America
+IS,COU,Iceland,154,Europe,Northern Europe
+5,SUB,South America,419,Americas,Latin America and the Caribbean
+IN,COU,India,34,Asia,Southern Asia
+ID,COU,Indonesia,35,Asia,South-eastern Asia
+IR,COU,Iran (Islamic Republic of),34,Asia,Southern Asia
+IQ,COU,Iraq,145,Asia,Western Asia
+IE,COU,Ireland,154,Europe,Northern Europe
+IM,COU,Isle of Man,154,Europe,Northern Europe
+IL,COU,Israel,145,Asia,Western Asia
+IT,COU,Italy,39,Europe,Southern Europe
+JP,COU,Japan,30,Asia,Eastern Asia
+JE,COU,Jersey,830,Europe,Channel Islands
+PY,COU,Paraguay,5,Americas,South America
+JO,COU,Jordan,145,Asia,Western Asia
+PE,COU,Peru,5,Americas,South America
+KZ,COU,Kazakhstan,143,Asia,Central Asia
+GS,COU,South Georgia and the South Sandwich Islands,5,Americas,South America
+SR,COU,Suriname,5,Americas,South America
+UY,COU,Uruguay,5,Americas,South America
+KP,COU,Democratic People's Republic of Korea,30,Asia,Eastern Asia
+VE,COU,Venezuela (Bolivarian Republic of),5,Americas,South America
+KR,COU,Republic of Korea,30,Asia,Eastern Asia
+21,SUB,Northern America,19,Americas,Americas
+KW,COU,Kuwait,145,Asia,Western Asia
+KG,COU,Kyrgyzstan,143,Asia,Central Asia
+LA,COU,Lao People's Democratic Republic,35,Asia,South-eastern Asia
+LV,COU,Latvia,154,Europe,Northern Europe
+PM,COU,Saint Pierre and Miquelon,21,Americas,Northern America
+LB,COU,Lebanon,145,Asia,Western Asia
+US,COU,United States of America,21,Americas,Northern America
+143,SUB,Central Asia,142,Asia,Asia
+LI,COU,Liechtenstein,155,Europe,Western Europe
+LT,COU,Lithuania,154,Europe,Northern Europe
+TJ,COU,Tajikistan,143,Asia,Central Asia
+LU,COU,Luxembourg,155,Europe,Western Europe
+TM,COU,Turkmenistan,143,Asia,Central Asia
+MO,COU,"China, Macao Special Administrative Region",30,Asia,Eastern Asia
+UZ,COU,Uzbekistan,143,Asia,Central Asia
+MK,COU,North Macedonia,39,Europe,Southern Europe
+30,SUB,Eastern Asia,142,Asia,Asia
+MY,COU,Malaysia,35,Asia,South-eastern Asia
+MV,COU,Maldives,34,Asia,Southern Asia
+MT,COU,Malta,39,Europe,Southern Europe
+MN,COU,Mongolia,30,Asia,Eastern Asia
+35,SUB,South-eastern Asia,142,Asia,Asia
+MD,COU,Republic of Moldova,151,Europe,Eastern Europe
+MM,COU,Myanmar,35,Asia,South-eastern Asia
+MC,COU,Monaco,155,Europe,Western Europe
+PH,COU,Philippines,35,Asia,South-eastern Asia
+SG,COU,Singapore,35,Asia,South-eastern Asia
+ME,COU,Montenegro,39,Europe,Southern Europe
+TH,COU,Thailand,35,Asia,South-eastern Asia
+TL,COU,Timor-Leste,35,Asia,South-eastern Asia
+VN,COU,Viet Nam,35,Asia,South-eastern Asia
+34,SUB,Southern Asia,34,Asia,Southern Asia
+NP,COU,Nepal,34,Asia,Southern Asia
+NL,COU,Netherlands,155,Europe,Western Europe
+NC,COU,New Caledonia,54,Oceania,Melanesia
+NZ,COU,New Zealand,53,Oceania,Australia and New Zealand
+PK,COU,Pakistan,34,Asia,Southern Asia
+LK,COU,Sri Lanka,34,Asia,Southern Asia
+145,SUB,Western Asia,142,Asia,Asia
+NF,COU,Norfolk Island,53,Oceania,Australia and New Zealand
+NO,COU,Norway,154,Europe,Northern Europe
+OM,COU,Oman,145,Asia,Western Asia
+PS,COU,State of Palestine,145,Asia,Western Asia
+PG,COU,Papua New Guinea,54,Oceania,Melanesia
+QA,COU,Qatar,145,Asia,Western Asia
+SA,COU,Saudi Arabia,145,Asia,Western Asia
+PL,COU,Poland,151,Europe,Eastern Europe
+SY,COU,Syrian Arab Republic,145,Asia,Western Asia
+PT,COU,Portugal,39,Europe,Southern Europe
+TR,COU,Turkey,145,Asia,Western Asia
+AE,COU,United Arab Emirates,145,Asia,Western Asia
+YE,COU,Yemen,145,Asia,Western Asia
+151,SUB,Eastern Europe,150,Europe,Europe
+RO,COU,Romania,151,Europe,Eastern Europe
+RU,COU,Russian Federation,151,Europe,Eastern Europe
+SK,COU,Slovakia,151,Europe,Eastern Europe
+UA,COU,Ukraine,151,Europe,Eastern Europe
+154,SUB,Northern Europe,154,Europe,Northern Europe
+SM,COU,San Marino,39,Europe,Southern Europe
+830,SUB,Channel Islands,830,Europe,Channel Islands
+RS,COU,Serbia,39,Europe,Southern Europe
+SJ,COU,Svalbard and Jan Mayen,154,Europe,Northern Europe
+SE,COU,Sweden,154,Europe,Northern Europe
+GB,COU,United Kingdom of Great Britain and Northern Ireland (the),154,Europe,Northern Europe
+39,SUB,Southern Europe,150,Europe,Europe
+SI,COU,Slovenia,39,Europe,Southern Europe
+ES,COU,Spain,39,Europe,Southern Europe
+CH,COU,Switzerland,155,Europe,Western Europe
+155,SUB,Western Europe,150,Europe,Europe
+53,SUB,Australia and New Zealand,9,Oceania,Oceania
+54,SUB,Melanesia,9,Oceania,Oceania
+SB,COU,Solomon Islands,54,Oceania,Melanesia
+VU,COU,Vanuatu,54,Oceania,Melanesia
+57,SUB,Micronesia,9,Oceania,Oceania
+GU,COU,Guam,57,Oceania,Micronesia
+KI,COU,Kiribati,57,Oceania,Micronesia
+MH,COU,Marshall Islands,57,Oceania,Micronesia
+FM,COU,Micronesia (Federated States of),57,Oceania,Micronesia
+NR,COU,Nauru,57,Oceania,Micronesia
+MP,COU,Northern Mariana Islands,57,Oceania,Micronesia
+PW,COU,Palau,57,Oceania,Micronesia
+UM,COU,United States Minor Outlying Islands (the),57,Oceania,Micronesia
+61,SUB,Polynesia,9,Oceania,Oceania
+AS,COU,American Samoa,61,Oceania,Polynesia
+CK,COU,Cook Islands,61,Oceania,Polynesia
+PF,COU,French Polynesia,61,Oceania,Polynesia
+NU,COU,Niue,61,Oceania,Polynesia
+PN,COU,Pitcairn,61,Oceania,Polynesia
+WS,COU,Samoa,61,Oceania,Polynesia
+TK,COU,Tokelau,61,Oceania,Polynesia
+TO,COU,Tonga,61,Oceania,Polynesia
+TV,COU,Tuvalu,61,Oceania,Polynesia
+WF,COU,Wallis and Futuna,61,Oceania,Polynesia
+2,REG,Africa,2,Africa,Africa
+19,REG,Americas,19,Americas,Americas
+419,SUB,Latin America and the Caribbean,19,Americas,Americas
+142,REG,Asia,142,Asia,Asia
+9,REG,Oceania,9,Oceania,Oceania
+150,REG,Europe,150,Europe,Europe
+10,REG,Antarctica,10,Antarctica,Antarctica
+XK,COU,Kosovo,39,Europe,Southern Europe
+G&I,REG,Global and Interregional,G&I,Global and Interregional,Global and Interregional
+Global - Enabling Function,REG,Global - Enabling Function,NA,NA,NA
+202,SUB,Sub-Saharan Africa,2,Africa,Africa
+TW,COU,Taiwan (Province of China),30,Asia,Eastern Asia
