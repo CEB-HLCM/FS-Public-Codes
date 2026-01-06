@@ -1,14 +1,6 @@
 ﻿NAME,TYPE,DEFINITION
-Government,C01,"Includes:
-o Local Government - Any local (sub national) government organisation in either contributor or recipient country.
-o Other Public Sector – Any other public sector organization falling within the government
-"
-NGOs,C02,"Non-governmental organizations that can include:
-o International NGO - An international non-governmental organization (INGO) is international in scope and has outposts around the world to deal with specific issues in many countries.
-o National NGO – A non-government organization with a scope to deal with specific issues in a particular country. 
-o Regional NGO - A non-government organization with a scope to deal with specific issues in a particular region.
-o Partner Country based NGO - NGOs not based in an aid recipient country and carrying out operations in one or more aid recipient countries.
-"
+Government,C01,Includes: Local Government - Any local (sub national) government organisation in either contributor or recipient country. Other Public Sector – Any other public sector organization falling within the government
+NGOs,C02,Non-governmental organizations that can include: International NGO - An international non-governmental organization (INGO) is international in scope and has outposts around the world to deal with specific issues in many countries. National NGO – A non-government organization with a scope to deal with specific issues in a particular country. Regional NGO - A non-government organization with a scope to deal with specific issues in a particular region. Partner Country based NGO - NGOs not based in an aid recipient country and carrying out operations in one or more aid recipient countries.
 Public Private Partnership,C03,"A public–private partnership (PPP, 3P or P3) is a cooperative arrangement between two or more public and private sectors, typically of a long-term nature"
 Foundations,C05,"A foundation is a non-governmental entity that is established as a nonprofit corporation or a charitable trust, with a principal purpose of making grants to unrelated organizations, institutions, or individuals for scientific, educational, cultural, religious, or other charitable purposes. This broad DEFINITION encompasses two foundation types: private foundations and grantmaking public charities"
 Private Sector,C06,"The private sector is the part of the economy, sometimes referred to as the citizen sector, which is run by private individuals or groups, usually as a means of enterprise for profit, and is not controlled by the State"
