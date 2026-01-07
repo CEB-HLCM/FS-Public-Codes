@@ -360,13 +360,13 @@ COLEAD (Committee Linking Entrepreneurship-Agriculture-Development),COLEAD,C02
 Coordinating Body of Latin American Banana and Agro-industrial Unions/Coordinadora Latinoamericano de Sindicatos Bananeros,COLSIBA,C02
 The National Confederation of Livestock (CNE)/Confédération Nationale de L'élevage,CNE,C02
 Coobana R.L.,COOBANA,C06
-CorporaciÃ³n Bananera Nacional,CORBANA,C02
+Corporación Bananera Nacional,CORBANA,C02
 ALDI EINKAUF GMBH & CO.OHG/ALDI,ALDI,C06
 "ASOCIACION AGRICOLA LIBERTAD, FLORIDA y PALMAS",AALF,C02
-AsociaciÃ³n de Bananeros Del Magdalena y La Guajira,ASBAMA,C02
-La AsociaciÃ³n de Desarrollo Pespirense (ADEPES),ADEPES,C02
-AsociaciÃ³n de Exportadores de Banano del Ecuador/Ecuador Banana Export Association,AEBE,C02
-AsociaciÃ³n HondureÃ±a para el Desarrollo de Servicios Tecnicos y Financieros/The Honduran Association for the Development of Technical and Financial Services (AHSETFIN),AHSETFIN,C02
+Asociación de Bananeros Del Magdalena y La Guajira,ASBAMA,C02
+La Asociación de Desarrollo Pespirense (ADEPES),ADEPES,C02
+Asociación de Exportadores de Banano del Ecuador/Ecuador Banana Export Association,AEBE,C02
+Asociación Hondureña para el Desarrollo de Servicios Tecnicos y Financieros/The Honduran Association for the Development of Technical and Financial Services (AHSETFIN),AHSETFIN,C02
 EUROBANK,EUROBAN,C06
 Fairtrade Labelling Organizations International,FLOI,C04E
 "Foundation for Agrarian Reform Cooperatives in Mindanao, Inc.",FARMCOOP,C05
@@ -374,7 +374,7 @@ World Renderers Organization (WRO),WRO,C02
 TESCO,TESCO,C06
 Fyffes International,FYFFES,C06
 LIDL Stiftung & Co.,LIDL,C05
-Instituto HondureÃ±o de Estudio y Desarrollo Integral de la Comunidad,IHDEI,xx
+Instituto Hondureño de Estudio y Desarrollo Integral de la Comunidad,IHDEI,xx
 International Dairy Federation,IDF12,C02
 Komping Puoy FWUC (Farmer Water User community),FWUC,C02
 Korea Overseas Fisheries Association,KOFA,C02
@@ -384,7 +384,7 @@ Organismo Internacional Regional de Sanidad Agropecuaria (OIRSA RD)/ Internation
 "Organization for the Promotion of Responsible Tuna Fisheries, OPRT",OPRT,C03
 Sainsburyâ€™s Supermarkets Ltd.,SAINSBURY,C06
 Shanghai Ocean University,SOU11,C07
-The German Savings Bank Foundation/Sparkassenstiftung fÃ¼r internationale Kooperation,GSBF,C06
+The German Savings Bank Foundation/Sparkassenstiftung für internationale Kooperation,GSBF,C06
 Stichting Solidaridad,SOLIDARID11,C02
 Universidad de Cordoba (CEHAP),CEHAP,C07
 Wageningen University/Omgevingswetenschappen,WUR23,C07
@@ -419,7 +419,7 @@ YALE UNIVERSITY,YALEU,C07
 XO Humanitarian Fund,XOFUND,C05
 Kosovo**,XK,C01
 Xiaomi Foundation/Xiaomi Global,XIAOMI,C05
-TheÃ‚Â World YouthÃ‚Â andÃ‚Â StudentÃ‚Â TravelÃ‚Â ConferenceÃ‚Â (WYSTC),WYSTC,C07
+The World Youth and Student Travel Conference (WYSTC),WYSTC,C07
 WYSE Travel Confederation,WYSE,C02
 World Wide Fund for Nature,WWF,C02
 World Vision International,WVI,C02
@@ -3354,15 +3354,15 @@ The Arab Authority for Agricultural Investment and Development (AAAID,AAAID,C04E
 2 Degree Investing Initiative,2DII,C02
 1M1B FOUNDATION,1M1B,C05
 Sark,-,C01
-AsociaciÃ³n de ComercializaciÃ³n y ExportaciÃ³n de Banano - ARCOBANEC,ARCOBANEC,C02
+Asociación de Comercialización y Exportación de Banano - ARCOBANEC,ARCOBANEC,C02
 Afruibana,AFRUIBANA,C02
 Agence FÃ©dÃ©rale pour la SÃ©curitÃ© de la ChaÃ®ne Alimentaire (AFSCA)/Federal agency for food security chain,AFSCA,C02
 "ASOCIACION AGRICOLA LIBERTAD, FLORIDA y PALMAS",ASOPROLIFLO,C02
-Association of Banana Producers' Organizations of the Canary Islands/ AsociaciÃ³n de Organizaciones de Productores de PlÃ¡tanos de Canarias (ASPROCAN),ASPROCAN,C02
+Association of Banana Producers' Organizations of the Canary Islands/ Asociación de Organizaciones de Productores de PlÃ¡tanos de Canarias (ASPROCAN),ASPROCAN,C02
 Banana link limited,BANLINK,C06
 Asociacion Bananos Ecologicos de la Linea Noroeste (BANELINO),BANELINO,C04E
 Federation of Japan Tuna Fisheries Co-operative Association,FJTFCA,C02
-Research Institute of Organic Agriculture (Forschungsinstitut fÃ¼r biologischen Landbau),FIBL,C07
+Research Institute of Organic Agriculture (Forschungsinstitut für biologischen Landbau),FIBL,C07
 "Pilipino Banana Growers and Exporters Association, Inc. (PBGEA)",PBGEA,C02
 Global Pulse Confederation,GPC11,C02
 University of Notre Dame,UNND,C07
@@ -3479,10 +3479,10 @@ BANCOLOMBIA,BANCOLOM,C06
 BRITISH PETROLEUM/BP p.l.c.,BPPLC,C06
 Capricorn Foundation,CAPRICORN,C05
 Climate Change Center,CCC,C02
-Compagnie Maritime d'AffrÃ¨tement (CMA) and Compagnie GÃ©nÃ©rale Maritime (CGM)/Maritime Freighting Company and General Maritime Company,CMACGM,C05
+Compagnie Maritime d'Affrètement (CMA) and Compagnie Générale Maritime (CGM)/Maritime Freighting Company and General Maritime Company,CMACGM,C05
 Costco Wholesale Corporation,COSTCO,C06
 DSM-FIRMENICH Corporation,DSM,C06
-FONDO SOCIAL DEL PROYECTOI INTEGRAL BAYOVAR (FOSPIBAY)/ Social Fund of the BayÃ³var Integral Project,FOSPIBAY,C05
+FONDO SOCIAL DEL PROYECTOI INTEGRAL BAYOVAR (FOSPIBAY)/ Social Fund of the Bayóvar Integral Project,FOSPIBAY,C05
 Food For The Poor,FFTP,C02
 For Globe Telecom Inc.,GLOBE,C06
 Human Appeal,HAPPEAL,C02
@@ -3517,7 +3517,7 @@ NAMDIA FOUNDATION,NAMDIA,C05
 OCEANO AZUL FOUNDATION,OCEANOAZULF,C05
 Caribbean air navigation service network,CANSNET,C04E
 AEON Environmental foundation,AEONF,C05
-MERI Foundation/ FundaciÃ³n MERI,MERIF,C05
+MERI Foundation/ Fundación MERI,MERIF,C05
 Fondation Carmignac/Carmignac foundation,CARMIGNACF,C05
 Prince Sattam Bin Abdulaziz University,PSAU,C07
 EU Business School,EURUNI,C07
